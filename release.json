@@ -1,0 +1,258 @@
+{
+  "release": "XenoPairDB Release 3.4-FINAL",
+  "release_date": "2026-09-22",
+  "license": "CC-BY-4.0",
+  "data_license": "CC-BY-4.0",
+  "code_license": "MIT",
+  "scope": {
+    "tier1_strict_core": 75,
+    "tier1_direct": 59,
+    "tier1_disputed": 4,
+    "tier1_inferred": 0,
+    "tier1_controls": 12,
+    "tier1_non_control": 63,
+    "boundary_cases": 5,
+    "engineering_modifiers": 1,
+    "tier2_atlas": 1407,
+    "surfaceome_universe": 4123,
+    "surfaceome_scoreable": 4122,
+    "priority_rows": 25,
+    "donor_scorecard_rows": 6,
+    "loso_evaluation_units": 79
+  },
+  "benchmark": {
+    "positives_n": 8,
+    "negatives_n": 12,
+    "auroc": 0.958,
+    "auprc": 0.942,
+    "mwu_p_one_sided_exact": 9.53e-05,
+    "pos_median_v2": 0.917,
+    "neg_median_v2": 0.28
+  },
+  "files": [
+    {
+      "dataset": "gold",
+      "portal_json": "api/gold.json",
+      "download": "downloads/gold.tsv",
+      "record_count": 75,
+      "sha256": "e46da0b3d71fda9612a1a7eca972010a2e439d6f6961724459c712213ec43d9d",
+      "columns": [
+        "pair_id",
+        "row_index",
+        "system",
+        "pig_gene",
+        "human_partner",
+        "direction",
+        "incompat_type",
+        "evidence",
+        "source",
+        "phenotype",
+        "organs",
+        "gene_key",
+        "identity",
+        "similarity",
+        "func_sev",
+        "evid_w",
+        "iface_id",
+        "ISI",
+        "expr_rho",
+        "expr_weight",
+        "ISI_v2"
+      ]
+    },
+    {
+      "dataset": "boundary",
+      "portal_json": "api/boundary.json",
+      "download": "downloads/boundary.tsv",
+      "record_count": 5,
+      "sha256": "f69c30eb184f8fbfe9844d79f3346f41e01fc4bf0173d558be13a96521ff4156",
+      "columns": [
+        "pair_id",
+        "row_index",
+        "system",
+        "pig_gene",
+        "human_partner",
+        "direction",
+        "incompat_type",
+        "evidence",
+        "source",
+        "phenotype",
+        "organs",
+        "gene_key",
+        "identity",
+        "similarity",
+        "func_sev",
+        "evid_w",
+        "iface_id",
+        "ISI",
+        "expr_rho",
+        "expr_weight",
+        "ISI_v2"
+      ]
+    },
+    {
+      "dataset": "engineering",
+      "portal_json": "api/engineering.json",
+      "download": "downloads/engineering.tsv",
+      "record_count": 1,
+      "sha256": "b7f20b91db24c59f528ce514f3a0d6d70c9ff1329d1e640459d236aede886a7b",
+      "columns": [
+        "pair_id",
+        "row_index",
+        "system",
+        "pig_gene",
+        "human_partner",
+        "direction",
+        "incompat_type",
+        "evidence",
+        "source",
+        "phenotype",
+        "organs",
+        "gene_key",
+        "identity",
+        "similarity",
+        "func_sev",
+        "evid_w",
+        "iface_id",
+        "ISI",
+        "expr_rho",
+        "expr_weight",
+        "ISI_v2"
+      ]
+    },
+    {
+      "dataset": "atlas",
+      "portal_json": "api/atlas.json",
+      "download": "downloads/atlas.tsv",
+      "record_count": 1407,
+      "sha256": "0a573b34cc2c4aab98f97d45f53f73fc61dc57613a790a0d1cc7bb58de49f37a",
+      "columns": [
+        "rank",
+        "ligand",
+        "receptor",
+        "pig_ligand_id",
+        "pig_receptor_id",
+        "ligand_identity_pct",
+        "receptor_identity_pct",
+        "pair_divergence",
+        "min_identity",
+        "lig_human_NxST",
+        "lig_pig_NxST",
+        "rec_human_NxST",
+        "rec_pig_NxST",
+        "pig_glyco_sites",
+        "glyco_delta_pig_minus_human",
+        "tier2_score",
+        "source",
+        "tier1_gold_overlap",
+        "qc_flag",
+        "lig_ortholog_type",
+        "rec_ortholog_type"
+      ]
+    },
+    {
+      "dataset": "surfaceome",
+      "portal_json": "api/surfaceome.json",
+      "download": "downloads/surfaceome.tsv",
+      "record_count": 4123,
+      "sha256": "5a3adbc102a32171f4e1631bb2570cf63f33dca67865493e47e6f856d6705c23",
+      "columns": [
+        "gene",
+        "acc",
+        "human_gene",
+        "perc_id",
+        "divergence",
+        "p_len",
+        "p_sequons",
+        "p_sequon_density",
+        "h_sequons",
+        "conserved_sequons",
+        "pig_only_sequons",
+        "glyco_epitope_sites",
+        "glyco_density",
+        "div_pct",
+        "glyco_pct",
+        "antigenicity_v2",
+        "rank_v2"
+      ]
+    },
+    {
+      "dataset": "scorecard",
+      "portal_json": "api/scorecard.json",
+      "download": "downloads/scorecard.tsv",
+      "record_count": 6,
+      "sha256": "2138bfd01088ecd04093d9c480f49c1e47066e403aada4cc247adf7cb8c889ed",
+      "columns": [
+        "donor",
+        "pairs_fixed",
+        "ISI_coverage%",
+        "top_residual"
+      ]
+    },
+    {
+      "dataset": "genotypes",
+      "portal_json": "api/genotypes.json",
+      "download": "downloads/genotypes.tsv",
+      "record_count": 45,
+      "sha256": "fa00140a657fad103316af36ae9a55ffe4e3c55d73213c464cdaec75e500b59c",
+      "columns": [
+        "genotype",
+        "edit_type",
+        "gene",
+        "tier1_pair",
+        "literature_basis"
+      ]
+    },
+    {
+      "dataset": "priority",
+      "portal_json": "api/priority.json",
+      "download": "downloads/priority.tsv",
+      "record_count": 25,
+      "sha256": "1407d28ac873f664e8567d1e20abce21e2b0cc4d3eab437087c927d012e7d5bf",
+      "columns": [
+        "si_s2_editing_rank",
+        "exclusion_reason",
+        "pair_id",
+        "system",
+        "gene_key",
+        "human_partner",
+        "identity",
+        "ISI_v1",
+        "ISI_v2",
+        "drug_bridge",
+        "edit_candidate"
+      ]
+    },
+    {
+      "dataset": "loso_units",
+      "portal_json": "api/loso_units.json",
+      "download": "downloads/loso_units.tsv",
+      "record_count": 79,
+      "sha256": "b297043e2e2b1a5f6d37db9dc83fa284efc353356d6e52d137192718c4588051",
+      "columns": [
+        "evaluation_id",
+        "parent_XP_id",
+        "system",
+        "label",
+        "is_control",
+        "included_in_LOSO",
+        "excluded_reason",
+        "fold"
+      ]
+    }
+  ],
+  "additional_artifacts": [
+    {
+      "path": "downloads/antigenicity_benchmark_summary.json",
+      "sha256": "4a5aa4ed412388f37d14337db30373c4829f8d3a625e769787adba9e166bd362"
+    },
+    {
+      "path": "downloads/figure_provenance.json",
+      "sha256": "65fc36ea77575bf9f706f569a6054a7afd6a4cf32d4cf69dcce44264b03edde7"
+    },
+    {
+      "path": "downloads/R3.4-FINAL_SHA256SUMS.json",
+      "sha256": "774bcec11c5d647878b95b6115eb6ddb7df2547095b6ecc0f4ac00e00c9e2d25"
+    }
+  ]
+}

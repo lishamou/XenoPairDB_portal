@@ -1,0 +1,32 @@
+{
+  "title": "XenoPairDB loso_units schema",
+  "type": "object",
+  "additionalProperties": true,
+  "properties": {
+    "evaluation_id": {
+      "type": "string"
+    },
+    "parent_XP_id": {
+      "type": "string"
+    },
+    "system": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
+    },
+    "is_control": {
+      "type": "string"
+    },
+    "included_in_LOSO": {
+      "type": "string"
+    },
+    "excluded_reason": {
+      "type": "string"
+    },
+    "fold": {
+      "type": "string"
+    }
+  },
+  "missing_value": "empty string"
+}

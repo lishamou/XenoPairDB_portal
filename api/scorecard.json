@@ -1,0 +1,53 @@
+{
+  "dataset": "scorecard",
+  "release": "XenoPairDB Release 3.4-FINAL",
+  "release_date": "2026-09-22",
+  "description": "Donor-level coverage and residual summary (A+ recalibration: T=1068.6, 6 genotypes; Yunnan-10GE=66.66%, Revivicor-10GE=68.72%, eGenesis-69GE=60.29%, ClonOrgan-6GE/8GE=11.70%, GTKO=3.60%).",
+  "record_count": 6,
+  "sha256": "2138bfd01088ecd04093d9c480f49c1e47066e403aada4cc247adf7cb8c889ed",
+  "download": "downloads/scorecard.tsv",
+  "columns": [
+    "donor",
+    "pairs_fixed",
+    "ISI_coverage%",
+    "top_residual"
+  ],
+  "records": [
+    {
+      "donor": "GTKO (NYU 2021-23)",
+      "pairs_fixed": "1",
+      "ISI_coverage%": "3.6",
+      "top_residual": "SLA-I/KIR2DL1/2DL3/3DL1; SLA-I(HLA-E_like)/KLRC1(NKG2A); CD58/CD2; SLA-I/human_CD8_TCR; SLA-II/human_CD4_TCR"
+    },
+    {
+      "donor": "ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)",
+      "pairs_fixed": "5",
+      "ISI_coverage%": "11.7",
+      "top_residual": "SLA-I/KIR2DL1/2DL3/3DL1; SLA-I(HLA-E_like)/KLRC1(NKG2A); CD58/CD2; SLA-I/human_CD8_TCR; SLA-II/human_CD4_TCR"
+    },
+    {
+      "donor": "ClonOrgan-8GE (Xijing kidney #2 2026)",
+      "pairs_fixed": "6",
+      "ISI_coverage%": "11.7",
+      "top_residual": "SLA-I/KIR2DL1/2DL3/3DL1; SLA-I(HLA-E_like)/KLRC1(NKG2A); CD58/CD2; SLA-I/human_CD8_TCR; SLA-II/human_CD4_TCR"
+    },
+    {
+      "donor": "Yunnan-10GE (Anhui auxiliary liver 2024)",
+      "pairs_fixed": "9",
+      "ISI_coverage%": "15.2",
+      "top_residual": "SLA-I(HLA-E_like)/KLRC1(NKG2A); SLA-I/KIR2DL1/2DL3/3DL1; CD58/CD2; SLA-I/human_CD8_TCR; SLA-II/human_CD4_TCR"
+    },
+    {
+      "donor": "Revivicor-10GE (Maryland heart/NYU kidney)",
+      "pairs_fixed": "7",
+      "ISI_coverage%": "11.7",
+      "top_residual": "SLA-I/KIR2DL1/2DL3/3DL1; SLA-I(HLA-E_like)/KLRC1(NKG2A); CD58/CD2; SLA-I/human_CD8_TCR; SLA-II/human_CD4_TCR"
+    },
+    {
+      "donor": "eGenesis-69GE (MGH kidney 2024-25)",
+      "pairs_fixed": "8",
+      "ISI_coverage%": "13.2",
+      "top_residual": "SLA-I/KIR2DL1/2DL3/3DL1; SLA-I(HLA-E_like)/KLRC1(NKG2A); CD58/CD2; SLA-I/human_CD8_TCR; SLA-II/human_CD4_TCR"
+    }
+  ]
+}

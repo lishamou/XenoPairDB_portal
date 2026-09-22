@@ -1,0 +1,71 @@
+{
+  "title": "XenoPairDB boundary schema",
+  "type": "object",
+  "additionalProperties": true,
+  "properties": {
+    "pair_id": {
+      "type": "string"
+    },
+    "row_index": {
+      "type": "string"
+    },
+    "system": {
+      "type": "string"
+    },
+    "pig_gene": {
+      "type": "string"
+    },
+    "human_partner": {
+      "type": "string"
+    },
+    "direction": {
+      "type": "string"
+    },
+    "incompat_type": {
+      "type": "string"
+    },
+    "evidence": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    },
+    "phenotype": {
+      "type": "string"
+    },
+    "organs": {
+      "type": "string"
+    },
+    "gene_key": {
+      "type": "string"
+    },
+    "identity": {
+      "type": "string"
+    },
+    "similarity": {
+      "type": "string"
+    },
+    "func_sev": {
+      "type": "string"
+    },
+    "evid_w": {
+      "type": "string"
+    },
+    "iface_id": {
+      "type": "string"
+    },
+    "ISI": {
+      "type": "string"
+    },
+    "expr_rho": {
+      "type": "string"
+    },
+    "expr_weight": {
+      "type": "string"
+    },
+    "ISI_v2": {
+      "type": "string"
+    }
+  },
+  "missing_value": "empty string"
+}

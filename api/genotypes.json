@@ -1,0 +1,333 @@
+{
+  "dataset": "genotypes",
+  "release": "XenoPairDB Release 3.4-FINAL",
+  "release_date": "2026-09-22",
+  "description": "Genotype definitions linked to Tier-1 axes.",
+  "record_count": 45,
+  "sha256": "fa00140a657fad103316af36ae9a55ffe4e3c55d73213c464cdaec75e500b59c",
+  "download": "downloads/genotypes.tsv",
+  "columns": [
+    "genotype",
+    "edit_type",
+    "gene",
+    "tier1_pair",
+    "literature_basis"
+  ],
+  "records": [
+    {
+      "genotype": "GTKO (NYU 2021-23)",
+      "edit_type": "KO",
+      "gene": "GGTA1",
+      "tier1_pair": "XP004",
+      "literature_basis": "Porowski/Montgomery NYU decedent series 2021-23"
+    },
+    {
+      "genotype": "ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)",
+      "edit_type": "KO",
+      "gene": "GGTA1",
+      "tier1_pair": "XP004",
+      "literature_basis": "Xijing group"
+    },
+    {
+      "genotype": "ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)",
+      "edit_type": "KO",
+      "gene": "CMAH",
+      "tier1_pair": "XP005",
+      "literature_basis": "Xijing group"
+    },
+    {
+      "genotype": "ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)",
+      "edit_type": "KO",
+      "gene": "B4GALNT2",
+      "tier1_pair": "XP063",
+      "literature_basis": "Xijing group"
+    },
+    {
+      "genotype": "ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)",
+      "edit_type": "KI",
+      "gene": "hCD46",
+      "tier1_pair": "XP001",
+      "literature_basis": "Xijing group"
+    },
+    {
+      "genotype": "ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)",
+      "edit_type": "KI",
+      "gene": "hCD55",
+      "tier1_pair": "XP002",
+      "literature_basis": "Xijing group"
+    },
+    {
+      "genotype": "ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)",
+      "edit_type": "KI",
+      "gene": "hTHBD",
+      "tier1_pair": "XP008",
+      "literature_basis": "Xijing group"
+    },
+    {
+      "genotype": "ClonOrgan-8GE (Xijing kidney #2 2026)",
+      "edit_type": "KO",
+      "gene": "GGTA1",
+      "tier1_pair": "XP004",
+      "literature_basis": "Xijing group"
+    },
+    {
+      "genotype": "ClonOrgan-8GE (Xijing kidney #2 2026)",
+      "edit_type": "KO",
+      "gene": "CMAH",
+      "tier1_pair": "XP005",
+      "literature_basis": "Xijing group"
+    },
+    {
+      "genotype": "ClonOrgan-8GE (Xijing kidney #2 2026)",
+      "edit_type": "KO",
+      "gene": "B4GALNT2",
+      "tier1_pair": "XP063",
+      "literature_basis": "Xijing group"
+    },
+    {
+      "genotype": "ClonOrgan-8GE (Xijing kidney #2 2026)",
+      "edit_type": "KI",
+      "gene": "hCD46",
+      "tier1_pair": "XP001",
+      "literature_basis": "Xijing group"
+    },
+    {
+      "genotype": "ClonOrgan-8GE (Xijing kidney #2 2026)",
+      "edit_type": "KI",
+      "gene": "hCD55",
+      "tier1_pair": "XP002",
+      "literature_basis": "Xijing group"
+    },
+    {
+      "genotype": "ClonOrgan-8GE (Xijing kidney #2 2026)",
+      "edit_type": "KI",
+      "gene": "hTHBD",
+      "tier1_pair": "XP008",
+      "literature_basis": "Xijing group"
+    },
+    {
+      "genotype": "ClonOrgan-8GE (Xijing kidney #2 2026)",
+      "edit_type": "KI",
+      "gene": "hCD47",
+      "tier1_pair": "XP020",
+      "literature_basis": "Xijing group"
+    },
+    {
+      "genotype": "ClonOrgan-8GE (Xijing kidney #2 2026)",
+      "edit_type": "KI",
+      "gene": "hHMOX1",
+      "tier1_pair": "n/a",
+      "literature_basis": "Xijing group"
+    },
+    {
+      "genotype": "Yunnan-10GE (Anhui auxiliary liver 2024)",
+      "edit_type": "KO",
+      "gene": "GGTA1",
+      "tier1_pair": "XP004",
+      "literature_basis": "Anhui/Yunnan group, J Hepatol 2025"
+    },
+    {
+      "genotype": "Yunnan-10GE (Anhui auxiliary liver 2024)",
+      "edit_type": "KO",
+      "gene": "CMAH",
+      "tier1_pair": "XP005",
+      "literature_basis": "Anhui/Yunnan group, J Hepatol 2025 (cited for CMAH)"
+    },
+    {
+      "genotype": "Yunnan-10GE (Anhui auxiliary liver 2024)",
+      "edit_type": "KO",
+      "gene": "B4GALNT2",
+      "tier1_pair": "XP063",
+      "literature_basis": "Anhui/Yunnan group, J Hepatol 2025 (cited for B4GALNT2)"
+    },
+    {
+      "genotype": "Yunnan-10GE (Anhui auxiliary liver 2024)",
+      "edit_type": "KI",
+      "gene": "hCD46",
+      "tier1_pair": "XP001",
+      "literature_basis": "Anhui/Yunnan group, J Hepatol 2025 (cited for hCD46)"
+    },
+    {
+      "genotype": "Yunnan-10GE (Anhui auxiliary liver 2024)",
+      "edit_type": "KI",
+      "gene": "hCD55",
+      "tier1_pair": "XP002",
+      "literature_basis": "Anhui/Yunnan group, J Hepatol 2025 (cited for hCD55)"
+    },
+    {
+      "genotype": "Yunnan-10GE (Anhui auxiliary liver 2024)",
+      "edit_type": "KI",
+      "gene": "hCD59",
+      "tier1_pair": "XP003",
+      "literature_basis": "Anhui/Yunnan group, J Hepatol 2025 (cited for hCD59)"
+    },
+    {
+      "genotype": "Yunnan-10GE (Anhui auxiliary liver 2024)",
+      "edit_type": "KI",
+      "gene": "hTHBD",
+      "tier1_pair": "XP008",
+      "literature_basis": "Anhui/Yunnan group, J Hepatol 2025 (cited for hTHBD)"
+    },
+    {
+      "genotype": "Yunnan-10GE (Anhui auxiliary liver 2024)",
+      "edit_type": "KI",
+      "gene": "hEPCR",
+      "tier1_pair": "XP009",
+      "literature_basis": "Anhui/Yunnan group, J Hepatol 2025 (cited for hEPCR)"
+    },
+    {
+      "genotype": "Yunnan-10GE (Anhui auxiliary liver 2024)",
+      "edit_type": "KI",
+      "gene": "hENTPD1",
+      "tier1_pair": "XP013",
+      "literature_basis": "Anhui/Yunnan group, J Hepatol 2025 (cited for hENTPD1)"
+    },
+    {
+      "genotype": "Yunnan-10GE (Anhui auxiliary liver 2024)",
+      "edit_type": "KI",
+      "gene": "hCD47",
+      "tier1_pair": "XP020",
+      "literature_basis": "Anhui/Yunnan group, J Hepatol 2025 (cited for hCD47)"
+    },
+    {
+      "genotype": "Revivicor-10GE (Maryland heart/NYU kidney)",
+      "edit_type": "KO",
+      "gene": "GGTA1",
+      "tier1_pair": "XP004",
+      "literature_basis": "Griffith et al.; NEJM/Nat Med 2022-25"
+    },
+    {
+      "genotype": "Revivicor-10GE (Maryland heart/NYU kidney)",
+      "edit_type": "KO",
+      "gene": "CMAH",
+      "tier1_pair": "XP005",
+      "literature_basis": "Griffith et al.; NEJM/Nat Med 2022-25 (cited for CMAH)"
+    },
+    {
+      "genotype": "Revivicor-10GE (Maryland heart/NYU kidney)",
+      "edit_type": "KO",
+      "gene": "B4GALNT2",
+      "tier1_pair": "XP063",
+      "literature_basis": "Griffith et al.; NEJM/Nat Med 2022-25 (cited for B4GALNT2)"
+    },
+    {
+      "genotype": "Revivicor-10GE (Maryland heart/NYU kidney)",
+      "edit_type": "KO",
+      "gene": "GHR",
+      "tier1_pair": "XP052",
+      "literature_basis": "Griffith et al.; NEJM/Nat Med 2022-25 (cited for GHR, addressing XP052 graft overgrowth)"
+    },
+    {
+      "genotype": "Revivicor-10GE (Maryland heart/NYU kidney)",
+      "edit_type": "KI",
+      "gene": "hCD46",
+      "tier1_pair": "XP001",
+      "literature_basis": "Griffith et al.; NEJM/Nat Med 2022-25 (cited for hCD46)"
+    },
+    {
+      "genotype": "Revivicor-10GE (Maryland heart/NYU kidney)",
+      "edit_type": "KI",
+      "gene": "hCD55",
+      "tier1_pair": "XP002",
+      "literature_basis": "Griffith et al.; NEJM/Nat Med 2022-25 (cited for hCD55)"
+    },
+    {
+      "genotype": "Revivicor-10GE (Maryland heart/NYU kidney)",
+      "edit_type": "KI",
+      "gene": "hCD47",
+      "tier1_pair": "XP020",
+      "literature_basis": "Griffith et al.; NEJM/Nat Med 2022-25 (cited for hCD47)"
+    },
+    {
+      "genotype": "Revivicor-10GE (Maryland heart/NYU kidney)",
+      "edit_type": "KI",
+      "gene": "hTHBD",
+      "tier1_pair": "XP008",
+      "literature_basis": "Griffith et al.; NEJM/Nat Med 2022-25 (cited for hTHBD)"
+    },
+    {
+      "genotype": "Revivicor-10GE (Maryland heart/NYU kidney)",
+      "edit_type": "KI",
+      "gene": "hEPCR",
+      "tier1_pair": "XP009",
+      "literature_basis": "Griffith et al.; NEJM/Nat Med 2022-25 (cited for hEPCR)"
+    },
+    {
+      "genotype": "Revivicor-10GE (Maryland heart/NYU kidney)",
+      "edit_type": "KI",
+      "gene": "hHMOX1",
+      "tier1_pair": "n/a",
+      "literature_basis": "Griffith et al.; NEJM/Nat Med 2022-25 (cited for hHMOX1)"
+    },
+    {
+      "genotype": "eGenesis-69GE (MGH kidney 2024-25)",
+      "edit_type": "KO",
+      "gene": "GGTA1",
+      "tier1_pair": "XP004",
+      "literature_basis": "eGenesis, MGH series 2024-25"
+    },
+    {
+      "genotype": "eGenesis-69GE (MGH kidney 2024-25)",
+      "edit_type": "KO",
+      "gene": "CMAH",
+      "tier1_pair": "XP005",
+      "literature_basis": "eGenesis, MGH series 2024-25 (cited for CMAH)"
+    },
+    {
+      "genotype": "eGenesis-69GE (MGH kidney 2024-25)",
+      "edit_type": "KO",
+      "gene": "B4GALNT2",
+      "tier1_pair": "XP063",
+      "literature_basis": "eGenesis, MGH series 2024-25 (cited for B4GALNT2)"
+    },
+    {
+      "genotype": "eGenesis-69GE (MGH kidney 2024-25)",
+      "edit_type": "KI",
+      "gene": "hCD46",
+      "tier1_pair": "XP001",
+      "literature_basis": "eGenesis, MGH series 2024-25 (cited for hCD46)"
+    },
+    {
+      "genotype": "eGenesis-69GE (MGH kidney 2024-25)",
+      "edit_type": "KI",
+      "gene": "hCD55",
+      "tier1_pair": "XP002",
+      "literature_basis": "eGenesis, MGH series 2024-25 (cited for hCD55)"
+    },
+    {
+      "genotype": "eGenesis-69GE (MGH kidney 2024-25)",
+      "edit_type": "KI",
+      "gene": "hTHBD",
+      "tier1_pair": "XP008",
+      "literature_basis": "eGenesis, MGH series 2024-25 (cited for hTHBD)"
+    },
+    {
+      "genotype": "eGenesis-69GE (MGH kidney 2024-25)",
+      "edit_type": "KI",
+      "gene": "hEPCR",
+      "tier1_pair": "XP009",
+      "literature_basis": "eGenesis, MGH series 2024-25 (cited for hEPCR)"
+    },
+    {
+      "genotype": "eGenesis-69GE (MGH kidney 2024-25)",
+      "edit_type": "KI",
+      "gene": "hCD47",
+      "tier1_pair": "XP020",
+      "literature_basis": "eGenesis, MGH series 2024-25 (cited for hCD47)"
+    },
+    {
+      "genotype": "eGenesis-69GE (MGH kidney 2024-25)",
+      "edit_type": "KI",
+      "gene": "hCD200",
+      "tier1_pair": "XP021",
+      "literature_basis": "eGenesis, MGH series 2024-25 (cited for hCD200)"
+    },
+    {
+      "genotype": "eGenesis-69GE (MGH kidney 2024-25)",
+      "edit_type": "KI",
+      "gene": "hTNFAIP3",
+      "tier1_pair": "n/a",
+      "literature_basis": "eGenesis, MGH series 2024-25 (cited for hTNFAIP3)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": "XenoPairDB priority schema",
+  "type": "object",
+  "additionalProperties": true,
+  "properties": {
+    "si_s2_editing_rank": {
+      "type": "string"
+    },
+    "exclusion_reason": {
+      "type": "string"
+    },
+    "pair_id": {
+      "type": "string"
+    },
+    "system": {
+      "type": "string"
+    },
+    "gene_key": {
+      "type": "string"
+    },
+    "human_partner": {
+      "type": "string"
+    },
+    "identity": {
+      "type": "string"
+    },
+    "ISI_v1": {
+      "type": "string"
+    },
+    "ISI_v2": {
+      "type": "string"
+    },
+    "drug_bridge": {
+      "type": "string"
+    },
+    "edit_candidate": {
+      "type": "string"
+    }
+  },
+  "missing_value": "empty string"
+}

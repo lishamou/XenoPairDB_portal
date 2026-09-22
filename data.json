@@ -1,0 +1,29 @@
+{
+  "release": "XenoPairDB Release 3.4-FINAL",
+  "portal_release": "A+",
+  "scope": {
+    "tier1_strict_core": 75,
+    "tier1_direct": 59,
+    "tier1_disputed": 4,
+    "tier1_inferred": 0,
+    "tier1_controls": 12,
+    "tier1_non_control": 63,
+    "boundary_cases": 5,
+    "engineering_modifiers": 1,
+    "tier2_atlas": 1407,
+    "surfaceome_universe": 4123,
+    "surfaceome_scoreable": 4122,
+    "priority_rows": 25,
+    "donor_scorecard_rows": 6,
+    "loso_evaluation_units": 79
+  },
+  "benchmark": {
+    "positives_n": 8,
+    "negatives_n": 12,
+    "auroc": 0.958,
+    "auprc": 0.942,
+    "mwu_p_one_sided_exact": 9.53e-05,
+    "pos_median_v2": 0.917,
+    "neg_median_v2": 0.28
+  }
+}

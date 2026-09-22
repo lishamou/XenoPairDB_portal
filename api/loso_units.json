@@ -1,0 +1,811 @@
+{
+  "dataset": "loso_units",
+  "release": "XenoPairDB Release 3.4-FINAL",
+  "release_date": "2026-09-22",
+  "description": "77-unit LOSO cross-validation sample (66 incompatible / 11 controls).",
+  "record_count": 79,
+  "sha256": "b297043e2e2b1a5f6d37db9dc83fa284efc353356d6e52d137192718c4588051",
+  "download": "downloads/loso_units.tsv",
+  "columns": [
+    "evaluation_id",
+    "parent_XP_id",
+    "system",
+    "label",
+    "is_control",
+    "included_in_LOSO",
+    "excluded_reason",
+    "fold"
+  ],
+  "records": [
+    {
+      "evaluation_id": "XP001",
+      "parent_XP_id": "XP001",
+      "system": "Complement",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP002",
+      "parent_XP_id": "XP002",
+      "system": "Complement",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP003",
+      "parent_XP_id": "XP003",
+      "system": "Complement",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP004",
+      "parent_XP_id": "XP004",
+      "system": "Complement",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP005",
+      "parent_XP_id": "XP005",
+      "system": "Complement",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP006",
+      "parent_XP_id": "XP006",
+      "system": "Coagulation",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP008",
+      "parent_XP_id": "XP008",
+      "system": "Coagulation",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP009",
+      "parent_XP_id": "XP009",
+      "system": "Coagulation",
+      "label": "control",
+      "is_control": "1",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP010",
+      "parent_XP_id": "XP010",
+      "system": "Coagulation",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP011",
+      "parent_XP_id": "XP011",
+      "system": "Coagulation",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP012",
+      "parent_XP_id": "XP012",
+      "system": "Coagulation",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP013",
+      "parent_XP_id": "XP013",
+      "system": "Coagulation",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP014",
+      "parent_XP_id": "XP014",
+      "system": "Coagulation",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP015",
+      "parent_XP_id": "XP015",
+      "system": "Coagulation",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP016",
+      "parent_XP_id": "XP016",
+      "system": "Coagulation",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP017",
+      "parent_XP_id": "XP017",
+      "system": "Coagulation",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP019",
+      "parent_XP_id": "XP019",
+      "system": "Coagulation",
+      "label": "control",
+      "is_control": "1",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP020",
+      "parent_XP_id": "XP020",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP021",
+      "parent_XP_id": "XP021",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP022",
+      "parent_XP_id": "XP022",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP023",
+      "parent_XP_id": "XP023",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP024",
+      "parent_XP_id": "XP024",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP025",
+      "parent_XP_id": "XP025",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP026",
+      "parent_XP_id": "XP026",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP027",
+      "parent_XP_id": "XP027",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP028",
+      "parent_XP_id": "XP028",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP029",
+      "parent_XP_id": "XP029",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP030",
+      "parent_XP_id": "XP030",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP031",
+      "parent_XP_id": "XP031",
+      "system": "Immune",
+      "label": "control",
+      "is_control": "1",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP032",
+      "parent_XP_id": "XP032",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP033",
+      "parent_XP_id": "XP033",
+      "system": "Immune",
+      "label": "control",
+      "is_control": "1",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP034",
+      "parent_XP_id": "XP034",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP035",
+      "parent_XP_id": "XP035",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP036",
+      "parent_XP_id": "XP036",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP037",
+      "parent_XP_id": "XP037",
+      "system": "Cytokine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP038",
+      "parent_XP_id": "XP038",
+      "system": "Cytokine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP039",
+      "parent_XP_id": "XP039",
+      "system": "Cytokine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP040",
+      "parent_XP_id": "XP040",
+      "system": "Cytokine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP041",
+      "parent_XP_id": "XP041",
+      "system": "Cytokine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP042",
+      "parent_XP_id": "XP042",
+      "system": "Cytokine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP043",
+      "parent_XP_id": "XP043",
+      "system": "Cytokine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP044",
+      "parent_XP_id": "XP044",
+      "system": "Cytokine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP045",
+      "parent_XP_id": "XP045",
+      "system": "Cytokine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP046",
+      "parent_XP_id": "XP046",
+      "system": "Cytokine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP048",
+      "parent_XP_id": "XP048",
+      "system": "Endocrine",
+      "label": "control",
+      "is_control": "1",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP049",
+      "parent_XP_id": "XP049",
+      "system": "Endocrine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP050",
+      "parent_XP_id": "XP050",
+      "system": "Endocrine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP051",
+      "parent_XP_id": "XP051",
+      "system": "Endocrine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP052",
+      "parent_XP_id": "XP052",
+      "system": "Endocrine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP053",
+      "parent_XP_id": "XP053",
+      "system": "Endocrine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP054",
+      "parent_XP_id": "XP054",
+      "system": "Endocrine",
+      "label": "control",
+      "is_control": "1",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP057",
+      "parent_XP_id": "XP057",
+      "system": "Adhesion",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP058",
+      "parent_XP_id": "XP058",
+      "system": "Adhesion",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP059",
+      "parent_XP_id": "XP059",
+      "system": "Adhesion",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP060",
+      "parent_XP_id": "XP060",
+      "system": "Adhesion",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP062",
+      "parent_XP_id": "XP062",
+      "system": "Adhesion",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP063",
+      "parent_XP_id": "XP063",
+      "system": "Complement",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP064",
+      "parent_XP_id": "XP064",
+      "system": "Adhesion",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP065",
+      "parent_XP_id": "XP065",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP066",
+      "parent_XP_id": "XP066",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP067",
+      "parent_XP_id": "XP067",
+      "system": "Complement",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP068",
+      "parent_XP_id": "XP068",
+      "system": "Immune",
+      "label": "control",
+      "is_control": "1",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP069",
+      "parent_XP_id": "XP069",
+      "system": "Adhesion",
+      "label": "control",
+      "is_control": "1",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP070",
+      "parent_XP_id": "XP070",
+      "system": "Adhesion",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP071",
+      "parent_XP_id": "XP071",
+      "system": "Cytokine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP072",
+      "parent_XP_id": "XP072",
+      "system": "Cytokine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP073",
+      "parent_XP_id": "XP073",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP074",
+      "parent_XP_id": "XP074",
+      "system": "Immune",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP075",
+      "parent_XP_id": "XP075",
+      "system": "Complement",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "0",
+      "excluded_reason": "sparse-control fold",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP076",
+      "parent_XP_id": "XP076",
+      "system": "Adhesion",
+      "label": "control",
+      "is_control": "1",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP078",
+      "parent_XP_id": "XP078",
+      "system": "Adhesion",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP079",
+      "parent_XP_id": "XP079",
+      "system": "Complement",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP080",
+      "parent_XP_id": "XP080",
+      "system": "Cytokine",
+      "label": "control",
+      "is_control": "1",
+      "included_in_LOSO": "0",
+      "excluded_reason": "sparse-control fold",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP081",
+      "parent_XP_id": "XP081",
+      "system": "Cytokine",
+      "label": "control",
+      "is_control": "1",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP082",
+      "parent_XP_id": "XP082",
+      "system": "Cytokine",
+      "label": "control",
+      "is_control": "1",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP080-subaxis-1",
+      "parent_XP_id": "XP080",
+      "system": "Cytokine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP081-subaxis-2",
+      "parent_XP_id": "XP081",
+      "system": "Cytokine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP082-subaxis-3",
+      "parent_XP_id": "XP082",
+      "system": "Cytokine",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    },
+    {
+      "evaluation_id": "XP079-subaxis-4",
+      "parent_XP_id": "XP079",
+      "system": "Complement",
+      "label": "incompatible",
+      "is_control": "0",
+      "included_in_LOSO": "1",
+      "excluded_reason": "",
+      "fold": "LOSO-6"
+    }
+  ]
+}

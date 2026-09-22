@@ -1,0 +1,71 @@
+{
+  "title": "XenoPairDB atlas schema",
+  "type": "object",
+  "additionalProperties": true,
+  "properties": {
+    "rank": {
+      "type": "string"
+    },
+    "ligand": {
+      "type": "string"
+    },
+    "receptor": {
+      "type": "string"
+    },
+    "pig_ligand_id": {
+      "type": "string"
+    },
+    "pig_receptor_id": {
+      "type": "string"
+    },
+    "ligand_identity_pct": {
+      "type": "string"
+    },
+    "receptor_identity_pct": {
+      "type": "string"
+    },
+    "pair_divergence": {
+      "type": "string"
+    },
+    "min_identity": {
+      "type": "string"
+    },
+    "lig_human_NxST": {
+      "type": "string"
+    },
+    "lig_pig_NxST": {
+      "type": "string"
+    },
+    "rec_human_NxST": {
+      "type": "string"
+    },
+    "rec_pig_NxST": {
+      "type": "string"
+    },
+    "pig_glyco_sites": {
+      "type": "string"
+    },
+    "glyco_delta_pig_minus_human": {
+      "type": "string"
+    },
+    "tier2_score": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    },
+    "tier1_gold_overlap": {
+      "type": "string"
+    },
+    "qc_flag": {
+      "type": "string"
+    },
+    "lig_ortholog_type": {
+      "type": "string"
+    },
+    "rec_ortholog_type": {
+      "type": "string"
+    }
+  },
+  "missing_value": "empty string"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "XenoPairDB scorecard schema",
+  "type": "object",
+  "additionalProperties": true,
+  "properties": {
+    "donor": {
+      "type": "string"
+    },
+    "pairs_fixed": {
+      "type": "string"
+    },
+    "ISI_coverage%": {
+      "type": "string"
+    },
+    "top_residual": {
+      "type": "string"
+    }
+  },
+  "missing_value": "empty string"
+}

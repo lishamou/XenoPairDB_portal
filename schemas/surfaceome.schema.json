@@ -1,0 +1,59 @@
+{
+  "title": "XenoPairDB surfaceome schema",
+  "type": "object",
+  "additionalProperties": true,
+  "properties": {
+    "gene": {
+      "type": "string"
+    },
+    "acc": {
+      "type": "string"
+    },
+    "human_gene": {
+      "type": "string"
+    },
+    "perc_id": {
+      "type": "string"
+    },
+    "divergence": {
+      "type": "string"
+    },
+    "p_len": {
+      "type": "string"
+    },
+    "p_sequons": {
+      "type": "string"
+    },
+    "p_sequon_density": {
+      "type": "string"
+    },
+    "h_sequons": {
+      "type": "string"
+    },
+    "conserved_sequons": {
+      "type": "string"
+    },
+    "pig_only_sequons": {
+      "type": "string"
+    },
+    "glyco_epitope_sites": {
+      "type": "string"
+    },
+    "glyco_density": {
+      "type": "string"
+    },
+    "div_pct": {
+      "type": "string"
+    },
+    "glyco_pct": {
+      "type": "string"
+    },
+    "antigenicity_v2": {
+      "type": "string"
+    },
+    "rank_v2": {
+      "type": "string"
+    }
+  },
+  "missing_value": "empty string"
+}

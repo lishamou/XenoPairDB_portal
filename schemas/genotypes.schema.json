@@ -1,0 +1,23 @@
+{
+  "title": "XenoPairDB genotypes schema",
+  "type": "object",
+  "additionalProperties": true,
+  "properties": {
+    "genotype": {
+      "type": "string"
+    },
+    "edit_type": {
+      "type": "string"
+    },
+    "gene": {
+      "type": "string"
+    },
+    "tier1_pair": {
+      "type": "string"
+    },
+    "literature_basis": {
+      "type": "string"
+    }
+  },
+  "missing_value": "empty string"
+}
