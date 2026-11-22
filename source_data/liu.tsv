@@ -1,0 +1,9 @@
+analysis	n	rho	ci_low	ci_high	p	bootstrap_valid	ci_method	test	seed	q_BH_secondary	bootstrap_degenerate
+primary_exclude_legacy8	6	-0.714285714286	-1	0.225806451613	0.13803	9999	paired_protein_percentile_bootstrap_conditional_on_assay	two_sided_Spearman_permutation_plus_one	20261104	NA	NA
+include_legacy8	6	-0.714285714286	-1	0.225806451613	0.13803	9999	paired_protein_percentile_bootstrap_conditional_on_assay	two_sided_Spearman_permutation_plus_one	20261104	0.27606	NA
+exact_accession_only	3	NA	NA	NA	NA	0	paired_protein_percentile_bootstrap_conditional_on_assay	two_sided_Spearman_permutation_plus_one	20261104	NA	NA
+all_three_controls_observed	1	NA	NA	NA	NA	0	paired_protein_percentile_bootstrap_conditional_on_assay	two_sided_Spearman_permutation_plus_one	20261104	NA	NA
+include_source_model_control_missing	22	-0.24788255223	-0.663242591557	0.252002371203	0.26743	10000	paired_protein_percentile_bootstrap_conditional_on_assay	two_sided_Spearman_permutation_plus_one	20261104	0.356573333333	NA
+protein_level_observed_controls	137	0.137180113952	-0.0451885888834	0.316412991626	0.10787	10000	paired_protein_percentile_bootstrap_conditional_on_assay	two_sided_Spearman_permutation_plus_one	20261104	0.27606	NA
+abundance_complete_cases_unadjusted	5	-0.5	-1	1	0.44909	9982	paired_protein_percentile_bootstrap_conditional_on_assay	two_sided_Spearman_permutation_plus_one	20261104	0.44909	NA
+abundance_adjusted_partial	5	-0.971536554751	NA	NA	NA	7103	NOT_VALIDATED_more_than_5pct_degenerate_bootstraps	partial_Spearman_rank_residuals_no_permutation_p	20261104	NA	2897

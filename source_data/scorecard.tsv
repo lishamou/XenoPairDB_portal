@@ -1,0 +1,37 @@
+scenario	donor	n_axes	T	A	R	C	units	source
+M	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	1079.55249	60.707706	1018.844784	0.0562341401297	weighted_divergence_percentage	isi_phase1_baseline_bridge.tsv
+M	ClonOrgan-8GE (Xijing kidney #2 2026)	61	1079.55249	73.887106	1005.665384	0.0684423468839	weighted_divergence_percentage	isi_phase1_baseline_bridge.tsv
+M	GTKO (NYU 2021-23)	61	1079.55249	0	1079.55249	0	weighted_divergence_percentage	isi_phase1_baseline_bridge.tsv
+M	Revivicor-10GE (Maryland heart/NYU kidney)	61	1079.55249	88.412386	991.140104	0.0818972554081	weighted_divergence_percentage	isi_phase1_baseline_bridge.tsv
+M	Yunnan-10GE (Anhui auxiliary liver 2024)	61	1079.55249	124.05677	955.49572	0.114914995935	weighted_divergence_percentage	isi_phase1_baseline_bridge.tsv
+M	eGenesis-69GE (MGH kidney 2024-25)	61	1079.55249	94.785746	984.766744	0.0878009609334	weighted_divergence_percentage	isi_phase1_baseline_bridge.tsv
+S	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	1071.04889	56.157706	1014.891184	0.0524324393819	weighted_divergence_percentage	isi_phase1_baseline_bridge.tsv
+S	ClonOrgan-8GE (Xijing kidney #2 2026)	61	1071.04889	71.008506	1000.040384	0.0662980996134	weighted_divergence_percentage	isi_phase1_baseline_bridge.tsv
+S	GTKO (NYU 2021-23)	61	1071.04889	0	1071.04889	0	weighted_divergence_percentage	isi_phase1_baseline_bridge.tsv
+S	Revivicor-10GE (Maryland heart/NYU kidney)	61	1071.04889	85.533786	985.515104	0.0798598334759	weighted_divergence_percentage	isi_phase1_baseline_bridge.tsv
+S	Yunnan-10GE (Anhui auxiliary liver 2024)	61	1071.04889	121.17817	949.87072	0.11313971858	weighted_divergence_percentage	isi_phase1_baseline_bridge.tsv
+S	eGenesis-69GE (MGH kidney 2024-25)	61	1071.04889	91.907146	979.141744	0.0858104115117	weighted_divergence_percentage	isi_phase1_baseline_bridge.tsv
+N	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	36.14412	1.69234	34.45178	0.0468220003696	severity_evidence_expression	isi_common_cohort.tsv + axis_donor_masks.tsv; exact row reduction
+N	ClonOrgan-8GE (Xijing kidney #2 2026)	61	36.14412	2.24034	33.90378	0.0619835259511	severity_evidence_expression	isi_common_cohort.tsv + axis_donor_masks.tsv; exact row reduction
+N	GTKO (NYU 2021-23)	61	36.14412	0	36.14412	0	severity_evidence_expression	isi_common_cohort.tsv + axis_donor_masks.tsv; exact row reduction
+N	Revivicor-10GE (Maryland heart/NYU kidney)	61	36.14412	3.18354	32.96058	0.0880790568424	severity_evidence_expression	isi_common_cohort.tsv + axis_donor_masks.tsv; exact row reduction
+N	Yunnan-10GE (Anhui auxiliary liver 2024)	61	36.14412	3.63682	32.5073	0.100619962528	severity_evidence_expression	isi_common_cohort.tsv + axis_donor_masks.tsv; exact row reduction
+N	eGenesis-69GE (MGH kidney 2024-25)	61	36.14412	3.02014	33.12398	0.0835582661855	severity_evidence_expression	isi_common_cohort.tsv + axis_donor_masks.tsv; exact row reduction
+E	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	1036.873	56.578	980.295	0.0545659883129	weighted_divergence_percentage	donor_scenario_scorecards.tsv
+E	ClonOrgan-8GE (Xijing kidney #2 2026)	61	1036.873	70.128	966.745	0.067634126841	weighted_divergence_percentage	donor_scenario_scorecards.tsv
+E	GTKO (NYU 2021-23)	61	1036.873	0	1036.873	0	weighted_divergence_percentage	donor_scenario_scorecards.tsv
+E	Revivicor-10GE (Maryland heart/NYU kidney)	61	1036.873	83.988	952.885	0.0810012412321	weighted_divergence_percentage	donor_scenario_scorecards.tsv
+E	Yunnan-10GE (Anhui auxiliary liver 2024)	61	1036.873	113.624	923.249	0.109583333735	weighted_divergence_percentage	donor_scenario_scorecards.tsv
+E	eGenesis-69GE (MGH kidney 2024-25)	61	1036.873	88.888	947.985	0.085726988744	weighted_divergence_percentage	donor_scenario_scorecards.tsv
+L	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	63	1068.6	60.7	1007.9	0.0568032940296	legacy_stored	donor_scenario_scorecards.tsv
+L	ClonOrgan-8GE (Xijing kidney #2 2026)	63	1068.6	73.9	994.7	0.0691559049223	legacy_stored	donor_scenario_scorecards.tsv
+L	GTKO (NYU 2021-23)	63	1068.6	0	1068.6	0	legacy_stored	donor_scenario_scorecards.tsv
+L	Revivicor-10GE (Maryland heart/NYU kidney)	63	1068.6	88.4	980.2	0.0827250608273	legacy_stored	donor_scenario_scorecards.tsv
+L	Yunnan-10GE (Anhui auxiliary liver 2024)	63	1068.6	124.1	944.5	0.116133258469	legacy_stored	donor_scenario_scorecards.tsv
+L	eGenesis-69GE (MGH kidney 2024-25)	63	1068.6	94.8	973.8	0.0887142055025	legacy_stored	donor_scenario_scorecards.tsv
+F	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	45.59412	4.04234	41.55178	0.0886592393931	severity_weighted_not_ISI	donor_scenario_scorecards.tsv
+F	ClonOrgan-8GE (Xijing kidney #2 2026)	75	45.59412	4.59034	41.00378	0.100678333083	severity_weighted_not_ISI	donor_scenario_scorecards.tsv
+F	GTKO (NYU 2021-23)	75	45.59412	0.9	44.69412	0.0197393874473	severity_weighted_not_ISI	donor_scenario_scorecards.tsv
+F	Revivicor-10GE (Maryland heart/NYU kidney)	75	45.59412	5.53354	40.06058	0.121365211128	severity_weighted_not_ISI	donor_scenario_scorecards.tsv
+F	Yunnan-10GE (Anhui auxiliary liver 2024)	75	45.59412	5.98682	39.6073	0.131306843953	severity_weighted_not_ISI	donor_scenario_scorecards.tsv
+F	eGenesis-69GE (MGH kidney 2024-25)	75	45.59412	5.37014	40.22398	0.117781415674	severity_weighted_not_ISI	donor_scenario_scorecards.tsv

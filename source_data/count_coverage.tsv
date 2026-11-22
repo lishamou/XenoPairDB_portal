@@ -1,0 +1,7 @@
+donor	resource_axes	non_control_axes	addressed_resource_axes	addressed_non_control_axes	remaining_noncontrol	axis_count_coverage_fraction	addressed_unscored_non_control_axes
+GTKO (NYU 2021-23)	75	63	1	1	62	0.015873015873	1
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	6	6	57	0.0952380952381	3
+ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	7	7	56	0.111111111111	3
+Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	10	9	54	0.142857142857	3
+Revivicor-10GE (Maryland heart/NYU kidney)	75	63	9	8	55	0.126984126984	3
+eGenesis-69GE (MGH kidney 2024-25)	75	63	9	8	55	0.126984126984	3

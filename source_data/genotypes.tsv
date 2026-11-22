@@ -1,0 +1,46 @@
+genotype	edit_type	gene	tier1_pair	literature_basis
+GTKO (NYU 2021-23)	KO	GGTA1	XP004	Porowski/Montgomery NYU decedent series 2021-23
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	KO	GGTA1	XP004	Xijing group
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	KO	CMAH	XP005	Xijing group
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	KO	B4GALNT2	XP063	Xijing group
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	KI	hCD46	XP001	Xijing group
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	KI	hCD55	XP002	Xijing group
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	KI	hTHBD	XP008	Xijing group
+ClonOrgan-8GE (Xijing kidney #2 2026)	KO	GGTA1	XP004	Xijing group
+ClonOrgan-8GE (Xijing kidney #2 2026)	KO	CMAH	XP005	Xijing group
+ClonOrgan-8GE (Xijing kidney #2 2026)	KO	B4GALNT2	XP063	Xijing group
+ClonOrgan-8GE (Xijing kidney #2 2026)	KI	hCD46	XP001	Xijing group
+ClonOrgan-8GE (Xijing kidney #2 2026)	KI	hCD55	XP002	Xijing group
+ClonOrgan-8GE (Xijing kidney #2 2026)	KI	hTHBD	XP008	Xijing group
+ClonOrgan-8GE (Xijing kidney #2 2026)	KI	hCD47	XP020	Xijing group
+ClonOrgan-8GE (Xijing kidney #2 2026)	KI	hHMOX1	n/a	Xijing group
+Yunnan-10GE (Anhui auxiliary liver 2024)	KO	GGTA1	XP004	Anhui/Yunnan group, J Hepatol 2025
+Yunnan-10GE (Anhui auxiliary liver 2024)	KO	CMAH	XP005	Anhui/Yunnan group, J Hepatol 2025 (cited for CMAH)
+Yunnan-10GE (Anhui auxiliary liver 2024)	KO	B4GALNT2	XP063	Anhui/Yunnan group, J Hepatol 2025 (cited for B4GALNT2)
+Yunnan-10GE (Anhui auxiliary liver 2024)	KI	hCD46	XP001	Anhui/Yunnan group, J Hepatol 2025 (cited for hCD46)
+Yunnan-10GE (Anhui auxiliary liver 2024)	KI	hCD55	XP002	Anhui/Yunnan group, J Hepatol 2025 (cited for hCD55)
+Yunnan-10GE (Anhui auxiliary liver 2024)	KI	hCD59	XP003	Anhui/Yunnan group, J Hepatol 2025 (cited for hCD59)
+Yunnan-10GE (Anhui auxiliary liver 2024)	KI	hTHBD	XP008	Anhui/Yunnan group, J Hepatol 2025 (cited for hTHBD)
+Yunnan-10GE (Anhui auxiliary liver 2024)	KI	hEPCR	XP009	Anhui/Yunnan group, J Hepatol 2025 (cited for hEPCR)
+Yunnan-10GE (Anhui auxiliary liver 2024)	KI	hENTPD1	XP013	Anhui/Yunnan group, J Hepatol 2025 (cited for hENTPD1)
+Yunnan-10GE (Anhui auxiliary liver 2024)	KI	hCD47	XP020	Anhui/Yunnan group, J Hepatol 2025 (cited for hCD47)
+Revivicor-10GE (Maryland heart/NYU kidney)	KO	GGTA1	XP004	Griffith et al.; NEJM/Nat Med 2022-25
+Revivicor-10GE (Maryland heart/NYU kidney)	KO	CMAH	XP005	Griffith et al.; NEJM/Nat Med 2022-25 (cited for CMAH)
+Revivicor-10GE (Maryland heart/NYU kidney)	KO	B4GALNT2	XP063	Griffith et al.; NEJM/Nat Med 2022-25 (cited for B4GALNT2)
+Revivicor-10GE (Maryland heart/NYU kidney)	KO	GHR	XP052	Griffith et al.; NEJM/Nat Med 2022-25 (cited for GHR, addressing XP052 graft overgrowth)
+Revivicor-10GE (Maryland heart/NYU kidney)	KI	hCD46	XP001	Griffith et al.; NEJM/Nat Med 2022-25 (cited for hCD46)
+Revivicor-10GE (Maryland heart/NYU kidney)	KI	hCD55	XP002	Griffith et al.; NEJM/Nat Med 2022-25 (cited for hCD55)
+Revivicor-10GE (Maryland heart/NYU kidney)	KI	hCD47	XP020	Griffith et al.; NEJM/Nat Med 2022-25 (cited for hCD47)
+Revivicor-10GE (Maryland heart/NYU kidney)	KI	hTHBD	XP008	Griffith et al.; NEJM/Nat Med 2022-25 (cited for hTHBD)
+Revivicor-10GE (Maryland heart/NYU kidney)	KI	hEPCR	XP009	Griffith et al.; NEJM/Nat Med 2022-25 (cited for hEPCR)
+Revivicor-10GE (Maryland heart/NYU kidney)	KI	hHMOX1	n/a	Griffith et al.; NEJM/Nat Med 2022-25 (cited for hHMOX1)
+eGenesis-69GE (MGH kidney 2024-25)	KO	GGTA1	XP004	eGenesis, MGH series 2024-25
+eGenesis-69GE (MGH kidney 2024-25)	KO	CMAH	XP005	eGenesis, MGH series 2024-25 (cited for CMAH)
+eGenesis-69GE (MGH kidney 2024-25)	KO	B4GALNT2	XP063	eGenesis, MGH series 2024-25 (cited for B4GALNT2)
+eGenesis-69GE (MGH kidney 2024-25)	KI	hCD46	XP001	eGenesis, MGH series 2024-25 (cited for hCD46)
+eGenesis-69GE (MGH kidney 2024-25)	KI	hCD55	XP002	eGenesis, MGH series 2024-25 (cited for hCD55)
+eGenesis-69GE (MGH kidney 2024-25)	KI	hTHBD	XP008	eGenesis, MGH series 2024-25 (cited for hTHBD)
+eGenesis-69GE (MGH kidney 2024-25)	KI	hEPCR	XP009	eGenesis, MGH series 2024-25 (cited for hEPCR)
+eGenesis-69GE (MGH kidney 2024-25)	KI	hCD47	XP020	eGenesis, MGH series 2024-25 (cited for hCD47)
+eGenesis-69GE (MGH kidney 2024-25)	KI	hCD200	XP021	eGenesis, MGH series 2024-25 (cited for hCD200)
+eGenesis-69GE (MGH kidney 2024-25)	KI	hTNFAIP3	n/a	eGenesis, MGH series 2024-25 (cited for hTNFAIP3)

@@ -1,0 +1,76 @@
+stable_axis_id	display_row	legacy_alias	source_release	entity_key	status
+XPA-c25103edd2a255581ea9	1	XP001	R3.4-FINAL	"[""CD46"",""C3B+CFI"",""pig<-human"",""partial_HAR_protection""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-99c5a9e490a5662018a2	2	XP002	R3.4-FINAL	"[""CD55"",""C3/C5_convertase"",""pig<-human"",""HAR_AMR""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-dc3415f67816faca2487	3	XP003	R3.4-FINAL	"[""CD59"",""C8A/C9"",""pig<-human"",""MAC_deposition""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-ccd504411bfd3c95e9b4	4	XP004	R3.4-FINAL	"[""GGTA1(aGal)"",""anti-aGal_IgM/C1Q"",""pig<-human"",""HAR""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-ee08c44b53b6207e5dab	5	XP005	R3.4-FINAL	"[""CMAH(Neu5Gc)"",""human anti-Neu5Gc IgM/IgG"",""pig<-human"",""Neu5Gc_dependent_human_humoral_recognition""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-147dd6e80620ffeea106	6	XP006	R3.4-FINAL	"[""VWF"",""GP1BA"",""pig->human"",""xTMA_thrombocytopenia""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-2a2b2bce33fec881c790	7	XP008	R3.4-FINAL	"[""THBD"",""F2/PROC"",""pig<-human"",""xTMA_consumptive_coagulopathy""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-53a2838c13aefe70e2ed	8	XP009	R3.4-FINAL	"[""PROCR"",""PROC"",""pig<-human"",""none""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-cadbc326852b6fe50e40	9	XP010	R3.4-FINAL	"[""F2R(PAR1)"",""F2"",""pig<-human"",""endothelial_dysregulation""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-96ebcc8aac880bdfd5c7	10	XP011	R3.4-FINAL	"[""TFPI"",""FXA"",""pig<-human"",""procoagulant_DXR""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-40f2d84fc94d135bcef0	11	XP012	R3.4-FINAL	"[""F3"",""FVIIA"",""pig<-human"",""graft_thrombosis""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-d6276d8355fa3ba2616f	12	XP013	R3.4-FINAL	"[""ENTPD1(CD39)"",""ATP/ADP"",""pig<-human"",""platelet_aggregation""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-32146df76ccdfb947527	13	XP014	R3.4-FINAL	"[""NT5E(CD73)"",""AMP"",""pig<-human"",""adenosine_barrier_loss""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-f298d21a7cd93644a68f	14	XP015	R3.4-FINAL	"[""ASGR1"",""human_platelet_glycan"",""pig->human"",""lethal_thrombocytopenia""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-8e90b1955acc4706db8c	15	XP016	R3.4-FINAL	"[""ITGB2(Kupffer_CD18)"",""human_platelets"",""pig->human"",""thrombocytopenia""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-41b7a017d1725813f7d7	16	XP017	R3.4-FINAL	"[""F2/PROC/PROS1"",""primate_coagulation"",""pig->human"",""late_coagulopathy_bleeding""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-57575be8d1dba317937b	17	XP019	R3.4-FINAL	"[""F8"",""human_coagulation"",""pig->human"",""none""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-6affe46609b0eb5b47f0	18	XP020	R3.4-FINAL	"[""CD47"",""SIRPA"",""pig->human"",""macrophage_phagocytosis""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-daadc137b4143cede059	19	XP021	R3.4-FINAL	"[""CD200"",""CD200R1"",""pig->human"",""macrophage_activation""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-2c2120a3fa25f8bce890	20	XP022	R3.4-FINAL	"[""SLA-I"",""KIR2DL1/2DL3/3DL1"",""pig->human"",""NK_killing""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-a0fd8dfdc08f50e8b607	21	XP023	R3.4-FINAL	"[""SLA-I(HLA-E_like)"",""KLRC1(NKG2A)"",""pig->human"",""NK_killing""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-68bc9c6481a2d8097095	22	XP024	R3.4-FINAL	"[""SLA-I"",""LILRB1(ILT2)"",""pig->human"",""NK_killing""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-75a136dc65f4fe8435eb	23	XP025	R3.4-FINAL	"[""ULBP1"",""KLRK1(NKG2D)"",""pig->human"",""NK_activation""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-39d5a1437c7afbcc0dd3	24	XP026	R3.4-FINAL	"[""SLA-I"",""human_CD8_TCR"",""pig->human"",""cellular_rejection""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-e939085519a1790a3966	25	XP027	R3.4-FINAL	"[""SLA-II"",""human_CD4_TCR"",""pig->human"",""cellular_rejection""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-045f3938096eba5a5295	26	XP028	R3.4-FINAL	"[""SLA-I/II"",""human_HLA_antibodies"",""pig<-human"",""AMR""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-3e3bdf9f8b91ae498cc8	27	XP029	R3.4-FINAL	"[""CD58"",""CD2"",""pig->human"",""NK_T_activation""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-c57d9ac8f0d1ed7aa48a	28	XP030	R3.4-FINAL	"[""CD80/CD86"",""CD28"",""pig->human"",""T_cell_activation""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-bad21febb3084ff1b3bb	29	XP031	R3.4-FINAL	"[""CD80/CD86"",""CTLA4"",""pig->human"",""therapeutic_target""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-d752e77ce4ed2aa222e8	30	XP032	R3.4-FINAL	"[""CD40"",""CD40LG"",""pig<-human"",""endothelial_activation_AMR""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-ec0fa15ab68a8af36a01	31	XP033	R3.4-FINAL	"[""CD274(PD-L1)"",""PDCD1"",""pig->human"",""endogenous_protection""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-644c452fe44ee11f1419	32	XP034	R3.4-FINAL	"[""PVR"",""TIGIT/CD226"",""pig->human"",""myeloid_NK_regulation""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-beef15cc95361715d295	33	XP035	R3.4-FINAL	"[""LAG3"",""HLA-II"",""pig->human"",""tolerance_strategy""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-76c09bf5ec3836c8328a	34	XP036	R3.4-FINAL	"[""FAS"",""FASLG"",""pig<-human"",""endothelial_apoptosis""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-5c8182be7d0f78608a8a	35	XP037	R3.4-FINAL	"[""TNFRSF1A/B"",""TNF"",""pig<-human"",""endothelial_activation""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-0c548352e9a084322fd2	36	XP038	R3.4-FINAL	"[""IL1R1"",""IL1B"",""pig<-human"",""inflammation""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-0b61a6e047a9fb5e62a7	37	XP039	R3.4-FINAL	"[""IL17RA"",""IL17A"",""pig<-human"",""inflammation_barrier_damage""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-1d8b799b0aa843aabb60	38	XP040	R3.4-FINAL	"[""IL6R"",""IL6"",""pig<-human"",""SIXR_inflammation_tocilizumab_gap""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-2e4e2d20e8df97746015	39	XP041	R3.4-FINAL	"[""IFNGR1/2"",""IFNG"",""pig<-human"",""immune_dysregulation""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-aad2b71f989d2e078888	40	XP042	R3.4-FINAL	"[""IL6(pig)"",""IL6R"",""pig->human"",""SIXR_siltuximab_gap""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-857f2cca754d8e1fa601	41	XP043	R3.4-FINAL	"[""TNF(pig)"",""TNFRSF1A/B"",""pig->human"",""systemic_inflammation""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-fe43273e740bd51642b5	42	XP044	R3.4-FINAL	"[""IL1B(pig)"",""IL1R1"",""pig->human"",""inflammation""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-fe656daf5c6bdd430f2c	43	XP045	R3.4-FINAL	"[""IFNG(pig)"",""IFNGR"",""pig->human"",""bidirectional_IFNG_barrier""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-1c4eb1cf8595e86950f5	44	XP046	R3.4-FINAL	"[""CXCL8(pig)"",""CXCR1/2"",""pig->human"",""neutrophil_recruitment""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-9464c1fc91126c73e922	45	XP048	R3.4-FINAL	"[""INS"",""INSR"",""pig->human"",""none_islet_advantage""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-610928b56809bd9333d2	46	XP049	R3.4-FINAL	"[""EPO"",""EPOR"",""pig->human"",""post_tx_anemia""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-501fb9dac53d82573546	47	XP050	R3.4-FINAL	"[""REN"",""AGT"",""pig->human"",""hypotension_volume""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-ff2203aecf1519f05605	48	XP051	R3.4-FINAL	"[""AVPR2"",""AVP"",""pig<-human"",""vasopressin_physiology_response""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-6791928bbd3d67590308	49	XP052	R3.4-FINAL	"[""GHR"",""GH1"",""pig<-human"",""graft_overgrowth""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-4de914c177cef8f338b5	50	XP053	R3.4-FINAL	"[""GH1(pig)"",""GHR"",""pig->human"",""GH_replacement_gap""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-0ab3cd7fe80ae4bb64ff	51	XP054	R3.4-FINAL	"[""UOX"",""uric_acid"",""pig->human"",""urate_clearance""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-e961c0db162173ce7cae	52	XP057	R3.4-FINAL	"[""SELE"",""SELPLG/ESL1"",""pig<-human"",""leukocyte_infiltration""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-b3f5c4b7e16037973024	53	XP058	R3.4-FINAL	"[""SELP"",""SELPLG"",""pig<-human"",""neutrophil_sequestration""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-266ff65dc9b64787c650	54	XP059	R3.4-FINAL	"[""VCAM1"",""ITGA4/ITGB1"",""pig<-human"",""lymphocyte_adhesion""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-9a669238f2eddfec7d95	55	XP060	R3.4-FINAL	"[""ICAM1"",""ITGAL/ITGB2"",""pig<-human"",""leukocyte_adhesion""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-405177a44428ea47187e	56	XP062	R3.4-FINAL	"[""PECAM1/CD31 (p)"",""human PECAM1/CD31"",""pig<-human"",""junction_disruption_leukocyte_transmigration""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-328c6bceaac8d37a00a0	57	XP063	R3.4-FINAL	"[""pB4GALNT2/Sd(a) glycan"",""human anti-Sd(a) antibody response"",""pig->human"",""human anti-Sd(a) IgM/IgG antibody binding (context-dependent; smaller than in NHP settings)""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-50bb5939c52d283583e6	58	XP064	R3.4-FINAL	"[""SIGLEC1 (CD169)"",""human erythrocyte sialic acids"",""pig->human"",""human_RBC_rosetting_porcine_macrophage""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-88bd3d7a54f8c4d724c9	59	XP065	R3.4-FINAL	"[""IL2"",""human IL-2-responsive lymphocyte proliferation"",""pig->human"",""pIL2_poor_human_lymphocyte_activation""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-b1bafa05e2457086b897	60	XP066	R3.4-FINAL	"[""porcine IL2R (lymphocyte-response axis)"",""porcine IL-2-responsive lymphocyte proliferation"",""pig<-human"",""hIL2_poor_porcine_lymphocyte_activation""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-2299b81824d180cd4798	61	XP067	R3.4-FINAL	"[""C5AR1"",""human C5a"",""pig<-human"",""attenuated_cross_species_C5a_chemotaxis_in_porcine_PMNs""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-d031536ecbbd37bd1827	62	XP068	R3.4-FINAL	"[""SIRPA"",""human CD47"",""pig->human"",""preserved_inhibitory_compatibility_pSIRPA_binding_hCD47""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-49fefbafdbaca19ca827	63	XP069	R3.4-FINAL	"[""ICAM2"",""human LFA1 (ITGAL/ITGB2)"",""pig->human"",""pICAM2_supports_hLFA1_firm_adhesion (~55% identity, cross-species conserved)""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-b503fcae7b36efcd1390	64	XP070	R3.4-FINAL	"[""ITGA5/ITGB1 (pVLA5)"",""human FN1"",""pig->human"",""pVLA5_independent_hFN_adhesion__direct_dysfunction_mismatch""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-669565ab30744efe8ece	65	XP071	R3.4-FINAL	"[""porcine IL3R/CD123 (hematopoietic response)"",""porcine IL3R/CD123 hematopoietic response"",""pig<-human"",""hIL3_poor_porcine_progenitor_response""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-9dac565d2c31fb725af3	66	XP072	R3.4-FINAL	"[""porcine IL3"",""human IL3R/CD123 hematopoietic response"",""pig->human"",""pIL3_poor_human_progenitor_response""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-d758af8418c22a1b8293	67	XP073	R3.4-FINAL	"[""porcine CTLA4"",""human CD80/CD86 (B7)"",""pig->human"",""pCTLA4-Ig_weakly_binds_hB7_only_blocks_pB7_signals""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-4d79f890f8279a4ef05e	68	XP074	R3.4-FINAL	"[""porcine αGal (glycan)"",""human LGALS3/galectin-3"",""pig->human"",""αGal_galectin3_mediates_monocyte_adhesion_pEC""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-bc47a2831208592c1a2f	69	XP075	R3.4-FINAL	"[""porcine CFH"",""human C3b/C3d"",""pig->human"",""pCFH_cofactor_less_efficient_hC3b_cleavage_SCR15_20_weak_C3b_binding""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-585b99e8ba6ca4c2773d	70	XP076	R3.4-FINAL	"[""ITGA4/ITGB1 (pVLA4)"",""human VCAM1"",""pig->human"",""pVLA4_binds_hVCAM1_cellular_adhesion_conserved""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-28320d48f2e360a67cac	71	XP078	R3.4-FINAL	"[""porcine terminal sialylated glycan / CD15s-like determinant"",""human SELL/CD62L"",""pig->human"",""sialylated_glycan_blocks_hCD62L_leukocyte_adhesion""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-2049b6105c033fd2cd43	72	XP079	R3.4-FINAL	"[""ABO(glycanA)"",""human anti-A IgM"",""pig->human"",""donor_A_phenotype_specific_HAR/AMR""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-5514c373d8a745313cf3	73	XP080	R3.4-FINAL	"[""CSF1"",""CSF1R"",""pig->human"",""cross_species_conserved_myeloid_signaling""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-15e0b1521f8288533e5c	74	XP081	R3.4-FINAL	"[""CSF1R"",""CSF1"",""pig<-human"",""cross_species_conserved_myeloid_signaling""]"	PROVISIONAL_ENDPOINT_STRING_KEY
+XPA-516c0f17e8abe754ea9f	75	XP082	R3.4-FINAL	"[""CSF1R"",""IL34"",""pig<-human"",""cross_species_conserved_myeloid_signaling""]"	PROVISIONAL_ENDPOINT_STRING_KEY

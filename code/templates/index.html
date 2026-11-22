@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Explore pig–human molecular evidence, donor-target coverage and candidate priorities in XenoPairDB.">
+<title>XenoPairDB · Molecular evidence and donor-target coverage</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<a class="skip" href="#browser">Skip to data browser</a>
+<header><div class="wrap"><div class="masthead"><a class="brand" href="#">XenoPairDB<span>Molecular evidence for donor-pig engineering</span></a><nav aria-label="Page navigation"><a href="#browser">Browse</a><a href="#evidence">Evidence</a><a href="#downloads">Downloads</a></nav></div>
+<h1>Connect engineering targets<br>with their molecular evidence.</h1>
+<p class="lede">Trace pig–human interactions to their recorded endpoints, compare the molecular targets of donor designs, and select candidates for functional follow-up.</p>
+<div class="header-links"><a href="https://doi.org/10.5281/zenodo.24221712">Data &amp; reproducible code ↗</a><a href="https://github.com/lishamou/XenoPairDB_portal">GitHub ↗</a></div>
+</div></header>
+<main class="wrap">
+<div id="status" class="status" role="status" aria-live="polite">Loading the frozen resource…</div>
+<section class="stats" id="stats" aria-label="Resource scope"></section>
+<section class="workflows" aria-label="Ways to use the resource">
+<button data-open="gold"><b>01 · Trace an axis</b><span>Inspect direction, source and functional endpoint.</span></button>
+<button data-open="scorecard"><b>02 · Compare target coverage</b><span>Examine addressed and residual components on explicit denominators.</span></button>
+<button data-open="surfaceome"><b>03 · Plan a follow-up assay</b><span>Connect a candidate priority with the evidence needed to test it.</span></button>
+</section>
+<section id="browser" class="browser" aria-labelledby="browser-title">
+<div class="section-head"><div><span class="eyebrow">THE RESOURCE</span><h2 id="browser-title">Explore the evidence</h2></div><a id="datasetDownload" href="#" download>Download this table ↓</a></div>
+<div id="groups" class="groups" role="group" aria-label="Dataset groups"></div>
+<div id="tabs" class="tabs" role="group" aria-label="Datasets"></div>
+<h3 id="datasetTitle"></h3><p id="datasetIntro" class="dataset-note"></p>
+<div class="controls"><label class="search-label">Search records<input id="search" type="search" placeholder="Gene, accession, axis ID, source…"></label>
+<label id="filterLabel">Filter<select id="filter"><option value="">All records</option></select></label>
+<label>Rows per page<select id="pageSize"><option>25</option><option selected>50</option><option>100</option></select></label>
+<button id="reset" class="secondary">Reset</button><button id="export" class="secondary">Export filtered TSV</button></div>
+<div id="detail" class="detail" hidden></div>
+<p id="tableHint" class="table-hint">Select a row for source fields and full precision. Scroll the table horizontally to see all columns.</p>
+<div class="table-wrap" role="region" aria-label="Scrollable results table" tabindex="0"><table><thead id="thead"></thead><tbody id="tbody"></tbody></table></div>
+<div class="pager"><span id="pageInfo" role="status" aria-live="polite"></span><div><button id="prev" class="secondary">Previous</button><button id="next" class="secondary">Next</button></div></div>
+</section>
+<section id="evidence" aria-labelledby="evidence-title"><span class="eyebrow">INTERPRETATION</span><h2 id="evidence-title">Different endpoints answer different questions</h2><div id="evidenceCards" class="evidence-cards"></div>
+<div class="reading-note"><h3>From a molecular hypothesis to its test</h3><p>GGTA1 targeting and human complement-regulator expression motivate complementary measurements: antibody recognition, complement deposition and serum-mediated injury. Template-based structural summaries can help choose follow-up sites; they do not measure binding affinity or signaling. The resource connects these hypotheses with sources and assay choices, informing experimental evaluation of clinically relevant donor designs.</p>
+<p>Independent candidate-specific assays, matched individual and combined intervention arms, and clinical-outcome studies remain necessary to establish antigenicity, comparative edit benefit, synergy and donor-selection performance. Original evidence labels and score weights are retained.</p></div></section>
+<section id="downloads" aria-labelledby="downloads-title"><div class="section-head"><div><span class="eyebrow">REUSE</span><h2 id="downloads-title">Data and reproducibility</h2></div><a href="https://doi.org/10.5281/zenodo.24221713">Frozen science archive ↗</a></div>
+<p>Table exports retain full-precision source values. The science archive contains executable analyses and their provenance; this repository contains the reproducible portal build. Consult the data dictionary for populations, score aliases and missing-value rules.</p>
+<div class="resource-links"><a href="DATA_DICTIONARY.md">Data dictionary</a><a href="SHA256SUMS.txt">SHA-256 manifest</a><a href="api/release.json">API manifest</a><a href="THIRD_PARTY_NOTICES.md">Sources and licenses</a></div><div id="downloadList" class="download-list"></div></section>
+<footer><strong>XenoPairDB</strong><span id="footerMeta"></span><span>Code: MIT · Data: per-source licenses</span><a href="https://doi.org/10.5281/zenodo.24221712">Cite the resource ↗</a></footer>
+</main>
+<script id="portal-data" type="application/json">__PORTAL_DATA__</script>
+<script src="assets/app.js"></script>
+</body></html>

@@ -1,0 +1,15 @@
+# Third-party sources and reuse conditions
+
+Original project licensing is in `LICENSE` (MIT code) and `DATA_LICENSE.md` (CC BY 4.0 original curation/derived materials). Neither overrides third-party rights. The following scope-specific notices apply to cached sources; files are supplied for reproducibility with their provenance.
+
+| Material and archive location | Original source / attribution | Source reuse condition |
+|---|---|---|
+| Liu processed supplementary XLSX files; `analysis/inputs/phase4_snapshot/inputs/public/` | Liu H et al. *Proteomic Identification of Pig Xenoantigens for Clinical Xenotransplantation*, DOI 10.1021/acs.jproteome.5c01244; supporting dataset DOI 10.1021/acs.jproteome.5c01244.s001, ACS Figshare 33126714, original ZIP file 67134084. | The cached Figshare metadata explicitly assigns **CC BY-NC 4.0** to the supporting dataset: https://creativecommons.org/licenses/by-nc/4.0/. XLSX files are unchanged. This is the supplement license; it is distinct from the article-text license. No blanket CC BY grant is made for these files. |
+| Anand source workbooks for Fig. 1, Fig. 3 and Extended Data Fig. 4 | Anand RP et al. *Design and testing of a humanized porcine donor for xenotransplantation*. Nature (2023), DOI 10.1038/s41586-023-06594-4. | CC BY 4.0 as provided with the open-access article and source material; https://www.nature.com/articles/s41586-023-06594-4. |
+| Nanno article HTML and original S1 DOCX used for source metadata/extraction | Nanno Y et al. PLoS ONE (2021), DOI 10.1371/journal.pone.0253029; S1: https://journals.plos.org/plosone/article/file?type=supplementary&id=10.1371/journal.pone.0253029.s001 | The source article explicitly declares **CC0 1.0**, not the standard PLOS CC BY license. https://creativecommons.org/publicdomain/zero/1.0/ |
+| Cached UniProtKB and UniSave responses, sequence and annotation fields | UniProt Consortium; record-level accession, version and taxon retained. | Copyrightable database material CC BY 4.0; https://rest.uniprot.org/help/license. |
+| Experimental PDB templates and RCSB metadata | PDB IDs 1DX5, 1I8L, 1KCG, 1MQ8 and 4ZQK; cite original structures and RCSB PDB. | PDB archive data CC0 1.0; external integrated metadata retain their providers’ terms. https://www.rcsb.org/pages/policies. |
+| Porcine AlphaFold monomer coordinates and metadata | AlphaFold DB; model accession/version and UniProt identity retained. | CC BY 4.0; https://alphafold.ebi.ac.uk/download and https://alphafold.ebi.ac.uk/assets/License-Disclaimer.pdf. |
+| Bibliographic metadata caches | Source DOI/PMID/PMCID, Crossref and Europe PMC metadata. | Factual identifiers are retained for source linking; publisher full text and abstracts are not included in the metadata summary. |
+
+License/source checks recorded on 2026-11-13. Original curated annotations may refer to OmniPath, CellPhoneDB, Ensembl, expression resources or papers; this archive does not redistribute full upstream interaction databases, raw expression cohorts, or subscription article full texts. Consult the cited source for any broader reuse.

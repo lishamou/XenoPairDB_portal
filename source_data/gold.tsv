@@ -1,0 +1,76 @@
+pair_id	row_index	system	pig_gene	human_partner	direction	incompat_type	evidence	source	phenotype	organs	gene_key	identity	similarity	func_sev	evid_w	iface_id	ISI	expr_rho	expr_weight	ISI_v2
+XP001	1	Complement	CD46	C3B+CFI	pig<-human	partial_compatible	direct	10469245	partial_HAR_protection	all	CD46	73.4	64.3	0.3	1.0	n/a	8.0	0.211	0.856	6.8
+XP002	2	Complement	CD55	C3/C5_convertase	pig<-human	low_efficiency	disputed	10.1161/01.RES.76.4.575	HAR_AMR	all	CD55	53.1	63.7	0.7	0.6		19.7	0.574	1.037	20.4
+XP003	3	Complement	CD59	C8A/C9	pig<-human	species_selective	disputed	7544344	MAC_deposition	all	CD59	49.2	65.6	0.7	0.6		21.3	0.868	1.184	25.3
+XP004	4	Complement	GGTA1(aGal)	anti-aGal_IgM/C1Q	pig<-human	hyperactive_recognition	direct	2460463	HAR	all	GGTA1			0.9	1.0		n/a		1.0	n/a
+XP005	5	Complement	CMAH(Neu5Gc)	human anti-Neu5Gc IgM/IgG	pig<-human	humoral_anti_Neu5Gc (canonical axis)	direct	23384142	Neu5Gc_dependent_human_humoral_recognition	all	CMAH			0.7	1.0		n/a		1.0	n/a
+XP006	6	Coagulation	VWF	GP1BA	pig->human	hyperactive	direct	15598271	xTMA_thrombocytopenia	liver,lung,heart	VWF	84.5	91.6	0.9	1.0	72.0	19.6		1.0	19.6
+XP008	7	Coagulation	THBD	F2/PROC	pig<-human	loss_of_cofactor	direct	18444940	xTMA_consumptive_coagulopathy	liver,kidney,heart	THBD	71.1	79.5	1.0	1.0	62.0	33.5		1.0	33.5
+XP009	8	Coagulation	PROCR	PROC	pig<-human	compatible	control	31556182	none	all	PROCR	71.6	81.3	0.0	1.0		0.0	0.745	1.122	0.0
+XP010	9	Coagulation	F2R(PAR1)	F2	pig<-human	loss_of_signaling	direct	10.1111/xen.70041	endothelial_dysregulation	all	F2R	82.8	90.6	1.0	1.0		17.2	0.578	1.039	17.9
+XP011	10	Coagulation	TFPI	FXA	pig<-human	loss_of_inhibition	disputed	9075849	procoagulant_DXR	all	TFPI	78.0	85.3	1.0	0.6		13.2	0.121	0.81	10.7
+XP012	11	Coagulation	F3	FVIIA	pig<-human	hyperactive	direct	10.1097/00007890-199709270-00017	graft_thrombosis	all	F3	71.9	83.6	0.9	1.0		25.3	0.763	1.132	28.6
+XP013	12	Coagulation	ENTPD1(CD39)	ATP/ADP	pig<-human	activity_lost_on_activation	direct	10.1182/blood.V104.11.1869.1869	platelet_aggregation	all	ENTPD1	72.3	85.9	0.8	1.0		22.2	0.749	1.124	24.9
+XP014	13	Coagulation	NT5E(CD73)	AMP	pig<-human	loss_on_perfusion	direct	15955461	adenosine_barrier_loss	all	NT5E	90.6	95.6	0.8	1.0		7.5	0.692	1.096	8.2
+XP015	14	Coagulation	ASGR1	human_platelet_glycan	pig->human	hyperactive_phagocytosis	direct	25728617	lethal_thrombocytopenia	liver	ASGR1	83.9	92.3	0.9	1.0		14.5	0.11	0.805	11.7
+XP016	15	Coagulation	ITGB2(Kupffer_CD18)	human_platelets	pig->human	phagocytosis	direct	21836538	thrombocytopenia	liver	ITGB2	84.1	90.5	0.8	1.0		12.7	0.859	1.18	15.0
+XP017	16	Coagulation	F2/PROC/PROS1	primate_coagulation	pig->human	organ_level_functional_response	direct	PMC13051420	late_coagulopathy_bleeding	liver	F2	83.1	90.7	1.0	1.0		16.9	0.367	0.934	15.8
+XP019	17	Coagulation	F8	human_coagulation	pig->human	compatible	control	1905722;1429706	none	all	F8	74.2	83.6	0.0	1.0		0.0	-0.002	0.75	0.0
+XP020	18	Immune	CD47	SIRPA	pig->human	loss_of_signal	direct	17360380	macrophage_phagocytosis	all	CD47	72.9	82.9	0.5	1.0	79.0	12.0	0.692	1.096	13.2
+XP021	19	Immune	CD200	CD200R1	pig->human	insufficient_affinity	direct	10.1111/xen.12863	macrophage_activation	all	CD200	73.2	83.6	0.7	1.0		18.8	0.727	1.114	20.9
+XP022	20	Immune	SLA-I	KIR2DL1/2DL3/3DL1	pig->human	loss_of_inhibition	direct	9278321	NK_killing	all	SLA-I			1.0	1.0		n/a		1.0	n/a
+XP023	21	Immune	SLA-I(HLA-E_like)	KLRC1(NKG2A)	pig->human	loss_of_inhibition	direct	PMC5749293	NK_killing	all	SLA-I			1.0	1.0		n/a		1.0	n/a
+XP024	22	Immune	SLA-I	LILRB1(ILT2)	pig->human	weak_recognition	direct	PMC5749293	NK_killing	all	SLA-I			0.65	1.0		n/a		1.0	n/a
+XP025	23	Immune	ULBP1	KLRK1(NKG2D)	pig->human	retained_activating	disputed	16887974	NK_activation	all	ULBP1	40.7	54.1	0.8	0.6		28.5	0.28	1.0	28.5
+XP026	24	Immune	SLA-I	human_CD8_TCR	pig->human	retained_direct_recognition	direct	10480402	cellular_rejection	all	SLA-I			0.85	1.0		n/a		1.0	n/a
+XP027	25	Immune	SLA-II	human_CD4_TCR	pig->human	retained_direct_recognition	direct	7491676	cellular_rejection	all	SLA-II			0.85	1.0		n/a		1.0	n/a
+XP028	26	Immune	SLA-I/II	human_HLA_antibodies	pig<-human	cross_reactive	direct	9808494	AMR	all	SLA-I			0.8	1.0		n/a		1.0	n/a
+XP029	27	Immune	CD58	CD2	pig->human	retained_activating	direct	13679072;40012743	NK_T_activation	all	CD58	40.2	58.6	0.8	1.0		47.8	0.556	1.028	49.2
+XP030	28	Immune	CD80/CD86	CD28	pig->human	retained_costim	direct	10.4049/jimmunol.164.6.3434	T_cell_activation	all	CD80	60.1	71.7	0.8	1.0		31.9	0.521	1.01	32.2
+XP031	29	Immune	CD80/CD86	CTLA4	pig->human	retained	control	7491676	therapeutic_target	all	CD80	60.1	71.7	0.0	1.0		0.0	0.521	1.01	0.0
+XP032	30	Immune	CD40	CD40LG	pig<-human	retained_activating	direct	11468547	endothelial_activation_AMR	all	CD40	74.9	83.3	0.8	1.0		20.1	0.644	1.072	21.5
+XP033	31	Immune	CD274(PD-L1)	PDCD1	pig->human	retained_inhibitory	control	17489864	endogenous_protection	all	CD274	74.1	86.7	0.0	1.0		0.0	0.697	1.098	0.0
+XP034	32	Immune	PVR	TIGIT/CD226	pig->human	retained	direct	31402149	myeloid_NK_regulation	all	PVR	57.7	68.5	0.6	1.0		25.4	0.552	1.026	26.0
+XP035	33	Immune	LAG3	HLA-II	pig->human	retained_inhibitory	direct	10.1007/s10529-009-0144-9	tolerance_strategy	all	LAG3	77.8	82.8	0.1	1.0		2.2	0.411	0.956	2.1
+XP036	34	Immune	FAS	FASLG	pig<-human	retained_killing	direct	10.4049/jimmunol.169.12.6850	endothelial_apoptosis	all	FAS	61.7	77.0	0.85	1.0		32.6	0.56	1.03	33.5
+XP037	35	Cytokine	TNFRSF1A/B	TNF	pig<-human	retained_activating	direct	8666424	endothelial_activation	all	TNFRSF1A	70.0	76.8	0.8	1.0		24.0	0.873	1.186	28.5
+XP038	36	Cytokine	IL1R1	IL1B	pig<-human	retained_activating	direct	28303603	inflammation	all	IL1R1	72.7	86.6	0.8	1.0		21.8	0.758	1.129	24.7
+XP039	37	Cytokine	IL17RA	IL17A	pig<-human	retained_activating	direct	10.3389/fimmu.2022.857311	inflammation_barrier_damage	all	IL17RA	69.3	78.3	0.8	1.0		24.6	0.684	1.092	26.8
+XP040	38	Cytokine	IL6R	IL6	pig<-human	retained_but_drug_gap	direct	28303603	SIXR_inflammation_tocilizumab_gap	all	IL6R	76.0	86.6	0.75	1.0		18.0	0.56	1.03	18.5
+XP041	39	Cytokine	IFNGR1/2	IFNG	pig<-human	loss_of_signaling	direct	8666424	immune_dysregulation	all	IFNGR1	60.9	75.6	1.0	1.0		39.1	0.745	1.122	43.9
+XP042	40	Cytokine	IL6(pig)	IL6R	pig->human	retained_drug_gap	direct	10.1111/xen.12408	SIXR_siltuximab_gap	all	IL6	59.0	74.5	0.75	1.0		30.8	0.612	1.056	32.5
+XP043	41	Cytokine	TNF(pig)	TNFRSF1A/B	pig->human	retained	direct	10.1111/xen.12408	systemic_inflammation	all	TNF	87.1	92.7	0.6	1.0		7.7		1.0	7.7
+XP044	42	Cytokine	IL1B(pig)	IL1R1	pig->human	retained	direct	10.1111/xen.12408	inflammation	all	IL1B	57.9	73.7	0.6	1.0		25.3	0.103	0.802	20.3
+XP045	43	Cytokine	IFNG(pig)	IFNGR	pig->human	loss_of_signaling	direct	10.1111/xen.12408	bidirectional_IFNG_barrier	all	IFNG	59.6	74.7	1.0	1.0		40.4	0.724	1.0	40.4
+XP046	44	Cytokine	CXCL8(pig)	CXCR1/2	pig->human	retained	direct	29427404	neutrophil_recruitment	lung	CXCL8	75.8	84.8	0.6	1.0		14.5	0.603	1.051	15.3
+XP048	45	Endocrine	INS	INSR	pig->human	compatible	control	7556975	none_islet_advantage	pancreas	INS	87.0	88.0	0.0	1.0		0.0		0.75	0.0
+XP049	46	Endocrine	EPO	EPOR	pig->human	insufficient	direct	8364201	post_tx_anemia	kidney	EPO	83.3	87.0	0.7	1.0		11.7	0.501	1.0	11.7
+XP050	47	Endocrine	REN	AGT	pig->human	low_efficiency	direct	10.1038/207636a0	hypotension_volume	kidney	REN	73.6	86.2	1.0	1.0		26.4	0.713	1.106	29.2
+XP051	48	Endocrine	AVPR2	AVP	pig<-human	physiological_response	direct	10.1210/endo-63-5-688	vasopressin_physiology_response	kidney	AVPR2	84.1	87.9	0.6	1.0		9.5	0.398	0.949	9.1
+XP052	49	Endocrine	GHR	GH1	pig<-human	retained_pathogenic	direct	33241624	graft_overgrowth	heart,kidney	GHR	84.6	91.5	0.9	1.0		13.9	0.596	1.048	14.5
+XP053	50	Endocrine	GH1(pig)	GHR	pig->human	no_activity	direct	7862673	GH_replacement_gap	all	GH1	68.8	80.0	1.0	1.0		31.2	0.447	0.974	30.4
+XP054	51	Endocrine	UOX	uric_acid	pig->human	advantage	control	PMC6200029	urate_clearance	kidney	UOX			0.0	1.0		0.0		1.0	0.0
+XP057	52	Adhesion	SELE	SELPLG/ESL1	pig<-human	retained	direct	10.1111/xen.12381	leukocyte_infiltration	lung,all	SELE	64.9	75.1	0.6	1.0	n/a	21.1	0.223	0.862	18.2
+XP058	53	Adhesion	SELP	SELPLG	pig<-human	retained	direct	PMC10204697	neutrophil_sequestration	lung	SELP	77.8	85.5	0.6	1.0	n/a	13.3	0.556	1.028	13.7
+XP059	54	Adhesion	VCAM1	ITGA4/ITGB1	pig<-human	retained	direct	10.1016/s0966-3274(96)80046-3	lymphocyte_adhesion	all	VCAM1	75.9	84.7	0.6	1.0	n/a	14.5	0.613	1.056	15.3
+XP060	55	Adhesion	ICAM1	ITGAL/ITGB2	pig<-human	retained	direct	7912457	leukocyte_adhesion	all	ICAM1	55.1	71.3	0.6	1.0		26.9	0.868	1.184	31.9
+XP062	56	Adhesion	PECAM1/CD31 (p)	human PECAM1/CD31	pig<-human	homophilic_PECAM1_partial_junction_loss	direct	10515388	junction_disruption_leukocyte_transmigration	all	PECAM1	71.8	84.0	0.6	1.0		16.9	0.684	1.092	18.5
+XP063	57	Complement	pB4GALNT2/Sd(a) glycan	human anti-Sd(a) antibody response	pig->human	humoral_glycan_xenoantigen	direct	28114170	human anti-Sd(a) IgM/IgG antibody binding (context-dependent; smaller than in NHP settings)	all	B4GALNT2	n/a	n/a	0.75	1.0	n/a	n/a	n/a	1.0	n/a
+XP064	58	Adhesion	SIGLEC1 (CD169)	human erythrocyte sialic acids	pig->human	macrophage_RBC_binding	direct	12857889;10.1128/JVI.77.15.8207-8215.2003	human_RBC_rosetting_porcine_macrophage	vascular, liver, lung	SIGLEC1	78.0	n/a	0.5	1.0	n/a	11.0	n/a	1.0	11.0
+XP065	59	Immune	IL2	human IL-2-responsive lymphocyte proliferation	pig->human	attenuated_cross_species_proliferation	direct	10.1111/j.1399-3089.2006.00329.x	pIL2_poor_human_lymphocyte_activation	immune	IL2	71.9	n/a	0.5	1.0	n/a	14.0	n/a	1.0	14.0
+XP066	60	Immune	porcine IL2R (lymphocyte-response axis)	porcine IL-2-responsive lymphocyte proliferation	pig<-human	attenuated_cross_species_proliferation	direct	10.1111/j.1399-3089.2006.00329.x	hIL2_poor_porcine_lymphocyte_activation	immune	IL2	71.9	n/a	0.5	1.0	n/a	14.0	n/a	1.0	14.0
+XP067	61	Complement	C5AR1	human C5a	pig<-human	weak_response_low_chemotaxis	direct	10.1111/j.1399-3089.2007.00421.x	attenuated_cross_species_C5a_chemotaxis_in_porcine_PMNs	vascular	C5AR1	70.0	n/a	0.5	1.0	n/a	15.0	n/a	1.0	15.0
+XP068	62	Immune	SIRPA	human CD47	pig->human	retained_compatibility	control	10.1111/xen.12466	preserved_inhibitory_compatibility_pSIRPA_binding_hCD47	liver, vascular	SIRPA	n/a	n/a	0.0	1.0	n/a	0.0	n/a	1.0	0.0
+XP069	63	Adhesion	ICAM2	human LFA1 (ITGAL/ITGB2)	pig->human	retained_compatibility	control	10.1111/j.1600-6143.2004.00369.x	pICAM2_supports_hLFA1_firm_adhesion (~55% identity, cross-species conserved)	vascular	ICAM2	55.0	70.0	0.0	1.0	n/a	0.0	0.5	1.0	0.0
+XP070	64	Adhesion	ITGA5/ITGB1 (pVLA5)	human FN1	pig->human	alternative_pathway_adhesion	direct	12060464	pVLA5_independent_hFN_adhesion__direct_dysfunction_mismatch	all	ITGA5	85.0	92.0	0.7	1.0	n/a	10.5		1.0	10.5
+XP071	65	Cytokine	porcine IL3R/CD123 (hematopoietic response)	porcine IL3R/CD123 hematopoietic response	pig<-human	species_specific_loss	direct	10428510	hIL3_poor_porcine_progenitor_response	all	IL3	39.0	86.4	0.6	1.0	n/a	36.6		1.0	36.6
+XP072	66	Cytokine	porcine IL3	human IL3R/CD123 hematopoietic response	pig->human	species_specific_loss	direct	10428510	pIL3_poor_human_progenitor_response	all	IL3	39.0	86.4	0.6	1.0	n/a	36.6		1.0	36.6
+XP073	67	Immune	porcine CTLA4	human CD80/CD86 (B7)	pig->human	directionally_asymmetric_weak	direct	10975832	pCTLA4-Ig_weakly_binds_hB7_only_blocks_pB7_signals	all	CTLA4	72.0	82.0	0.5	1.0	n/a	14.0		1.0	14.0
+XP074	68	Immune	porcine αGal (glycan)	human LGALS3/galectin-3	pig->human	innate_recognition	direct	16818789	αGal_galectin3_mediates_monocyte_adhesion_pEC	all	GGTA1	n/a	n/a	0.85	1.0	n/a	n/a		1.0	n/a
+XP075	69	Complement	porcine CFH	human C3b/C3d	pig->human	partial_compatible	direct	14517701	pCFH_cofactor_less_efficient_hC3b_cleavage_SCR15_20_weak_C3b_binding	all	CFH	62.0	89.5	0.3	1.0	n/a	0.0		1.0	0.3
+XP076	70	Adhesion	ITGA4/ITGB1 (pVLA4)	human VCAM1	pig->human	fully_compatible_assay	control	9721809	pVLA4_binds_hVCAM1_cellular_adhesion_conserved	all	ITGA4	84.5	91.0	0.0	1.0	n/a	0.0		1.0	0.0
+XP078	71	Adhesion	porcine terminal sialylated glycan / CD15s-like determinant	human SELL/CD62L	pig->human	glycan_blocking_canonical_selectin_ligand	direct	10075584	sialylated_glycan_blocks_hCD62L_leukocyte_adhesion	all		n/a	n/a	0.4	1.0	n/a	n/a		1.0	n/a
+XP079	72	Complement	ABO(glycanA)	human anti-A IgM	pig->human	context_specific_direct	direct	10.1080/00365590151030840	donor_A_phenotype_specific_HAR/AMR	vascular,kidney	ABO	n/a	n/a	0.7	1.0	n/a	n/a	0.45	1.0	n/a
+XP080	73	Cytokine	CSF1	CSF1R	pig->human	cross_species_active	control	22974529	cross_species_conserved_myeloid_signaling	all	CSF1	83.0	89.0	0.0	1.0		0.0	0.45	1.0	0.0
+XP081	74	Cytokine	CSF1R	CSF1	pig<-human	cross_species_active	control	22974529	cross_species_conserved_myeloid_signaling	all	CSF1R	82.0	88.0	0.0	1.0		0.0	0.4	1.0	0.0
+XP082	75	Cytokine	CSF1R	IL34	pig<-human	cross_species_active	control	22974529	cross_species_conserved_myeloid_signaling	all	CSF1R	82.0	88.0	0.0	1.0		0.0	0.4	1.0	0.0

@@ -1,0 +1,134 @@
+file	sheet	cell	cell_source	genotype	endpoint	species	time	condition	value	unit
+41586_2023_6594_MOESM5_ESM.xlsx	3a	C3	9-3	WT	C3b	human	30min	serum	825	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	D3	9-3	WT	C3b	human	30min	EDTA	0.236	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	C4	21252	3KO	C3b	human	30min	serum	3.914	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	D4	21252	3KO	C3b	human	30min	EDTA	0.224	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	C5	21253	3KO	C3b	human	30min	serum	5.61	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	D5	21253	3KO	C3b	human	30min	EDTA	0.203	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	C6	21256	3KO	C3b	human	30min	serum	4.962	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	D6	21256	3KO	C3b	human	30min	EDTA	0.201	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	C7	21024	3KO.7TG	C3b	human	30min	serum	0.85	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	D7	21024	3KO.7TG	C3b	human	30min	EDTA	0.247	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	C8	21039	3KO.7TG	C3b	human	30min	serum	1.426	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	D8	21039	3KO.7TG	C3b	human	30min	EDTA	0.252	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	C9	21077	3KO.7TG	C3b	human	30min	serum	0.681	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	D9	21077	3KO.7TG	C3b	human	30min	EDTA	0.226	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	C10	A9156	3KO.7TG.RI	C3b	human	30min	serum	0.84	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	D10	A9156	3KO.7TG.RI	C3b	human	30min	EDTA	0.246	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	C11	A9161	3KO.7TG.RI	C3b	human	30min	serum	0.863	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	D11	A9161	3KO.7TG.RI	C3b	human	30min	EDTA	0.342	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	C12	HUVEC	HUVEC	C3b	human	30min	serum	0.239	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	D12	HUVEC	HUVEC	C3b	human	30min	EDTA	0.203	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	C13	HGMVEC	HGMVEC	C3b	human	30min	serum	2.873	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3a	D13	HGMVEC	HGMVEC	C3b	human	30min	EDTA	0.183	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	C3	9-3	WT	C3b	cyno	30min	serum	98.194	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	D3	9-3	WT	C3b	cyno	30min	EDTA	0.209	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	C4	21252	3KO	C3b	cyno	30min	serum	10.822	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	D4	21252	3KO	C3b	cyno	30min	EDTA	0.195	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	C5	21253	3KO	C3b	cyno	30min	serum	10.144	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	D5	21253	3KO	C3b	cyno	30min	EDTA	0.202	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	C6	21256	3KO	C3b	cyno	30min	serum	6.75	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	D6	21256	3KO	C3b	cyno	30min	EDTA	0.185	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	C7	21024	3KO.7TG	C3b	cyno	30min	serum	3.412	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	D7	21024	3KO.7TG	C3b	cyno	30min	EDTA	0.238	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	C8	21039	3KO.7TG	C3b	cyno	30min	serum	3.26	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	D8	21039	3KO.7TG	C3b	cyno	30min	EDTA	0.26	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	C9	21077	3KO.7TG	C3b	cyno	30min	serum	2.027	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	D9	21077	3KO.7TG	C3b	cyno	30min	EDTA	0.209	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	C10	A9156	3KO.7TG.RI	C3b	cyno	30min	serum	2.909	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	D10	A9156	3KO.7TG.RI	C3b	cyno	30min	EDTA	0.241	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	C11	A9161	3KO.7TG.RI	C3b	cyno	30min	serum	2.895	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	D11	A9161	3KO.7TG.RI	C3b	cyno	30min	EDTA	0.204	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	C12	HUVEC	HUVEC	C3b	cyno	30min	serum	523	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	D12	HUVEC	HUVEC	C3b	cyno	30min	EDTA	0.144	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	C13	HGMVEC	HGMVEC	C3b	cyno	30min	serum	512	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3b	D13	HGMVEC	HGMVEC	C3b	cyno	30min	EDTA	0.178	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3c	C3	9-3	WT	CDC	human	45min	serum	96.14064	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	D3	9-3	WT	CDC	cyno	45min	serum	96.83091	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	C4	21252	3KO	CDC	human	45min	serum	0.683999	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	D4	21252	3KO	CDC	cyno	45min	serum	34.42888	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	C5	21253	3KO	CDC	human	45min	serum	1.159843	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	D5	21253	3KO	CDC	cyno	45min	serum	47.13389	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	C6	21256	3KO	CDC	human	45min	serum	1.525397	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	D6	21256	3KO	CDC	cyno	45min	serum	36.69596	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	C7	21024	3KO.7TG	CDC	human	45min	serum	1.008442	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	D7	21024	3KO.7TG	CDC	cyno	45min	serum	0.766755	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	C8	21039	3KO.7TG	CDC	human	45min	serum	1.878941	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	D8	21039	3KO.7TG	CDC	cyno	45min	serum	0.651565	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	C9	21077	3KO.7TG	CDC	human	45min	serum	0.490836	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	D9	21077	3KO.7TG	CDC	cyno	45min	serum	0.396307	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	C10	A9156	3KO.7TG.RI	CDC	human	45min	serum	0.762167	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	D10	A9156	3KO.7TG.RI	CDC	cyno	45min	serum	0.778643	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	C11	A9161	3KO.7TG.RI	CDC	human	45min	serum	1.357752	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	D11	A9161	3KO.7TG.RI	CDC	cyno	45min	serum	4.585165	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	C12	HUVEC	HUVEC	CDC	human	45min	serum	0	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	D12	HUVEC	HUVEC	CDC	cyno	45min	serum	0	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	C13	HGMVEC	HGMVEC	CDC	human	45min	serum	0.403226	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3c	D13	HGMVEC	HGMVEC	CDC	cyno	45min	serum	0	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	C4	9-3	WT	CDC_ED4	human	45min	serum	93.11605	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	D4	9-3	WT	CDC_ED4	cyno	45min	serum	95.42213	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	E4	9-3	WT	CDC_ED4	human	15h	serum	92.34484	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	F4	9-3	WT	CDC_ED4	cyno	15h	serum	94.09905	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	C5	1130	WT	CDC_ED4	human	45min	serum	91.4655	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	D5	1130	WT	CDC_ED4	cyno	45min	serum	95.21763	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	E5	1130	WT	CDC_ED4	human	15h	serum	91.79898	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	F5	1130	WT	CDC_ED4	cyno	15h	serum	92.8279	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	C6	1131	WT	CDC_ED4	human	45min	serum	89.18955	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	D6	1131	WT	CDC_ED4	cyno	45min	serum	94.6353	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	E6	1131	WT	CDC_ED4	human	15h	serum	91.61681	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	F6	1131	WT	CDC_ED4	cyno	15h	serum	94.12271	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	C7	21252	3KO	CDC_ED4	human	45min	serum	3.177	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	D7	21252	3KO	CDC_ED4	cyno	45min	serum	65.66462	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	E7	21252	3KO	CDC_ED4	human	15h	serum	28.67245	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	F7	21252	3KO	CDC_ED4	cyno	15h	serum	77.42059	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	C8	21253	3KO	CDC_ED4	human	45min	serum	2.630105	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	D8	21253	3KO	CDC_ED4	cyno	45min	serum	71.21647	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	E8	21253	3KO	CDC_ED4	human	15h	serum	46.36835	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	F8	21253	3KO	CDC_ED4	cyno	15h	serum	82.56236	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	C9	21256	3KO	CDC_ED4	human	45min	serum	1.761317	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	D9	21256	3KO	CDC_ED4	cyno	45min	serum	72.38834	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	E9	21256	3KO	CDC_ED4	human	15h	serum	5.507977	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	F9	21256	3KO	CDC_ED4	cyno	15h	serum	74.59605	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	C10	21024	3KO.7TG	CDC_ED4	human	45min	serum	0.989151	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	D10	21024	3KO.7TG	CDC_ED4	cyno	45min	serum	1.339882	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	E10	21024	3KO.7TG	CDC_ED4	human	15h	serum	0.803069	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	F10	21024	3KO.7TG	CDC_ED4	cyno	15h	serum	0.967333	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	C11	21039	3KO.7TG	CDC_ED4	human	45min	serum	2.175242	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	D11	21039	3KO.7TG	CDC_ED4	cyno	45min	serum	0.743783	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	E11	21039	3KO.7TG	CDC_ED4	human	15h	serum	2.0492	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	F11	21039	3KO.7TG	CDC_ED4	cyno	15h	serum	0.301321	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	C12	21077	3KO.7TG	CDC_ED4	human	45min	serum	1.957558	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	D12	21077	3KO.7TG	CDC_ED4	cyno	45min	serum	7.756857	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	E12	21077	3KO.7TG	CDC_ED4	human	15h	serum	1.536804	percent_CytotoxRed_positive
+41586_2023_6594_MOESM9_ESM.xlsx	ED Fig. 4b	F12	21077	3KO.7TG	CDC_ED4	cyno	15h	serum	0.452138	percent_CytotoxRed_positive
+41586_2023_6594_MOESM5_ESM.xlsx	3d	C6	21252	3KO	C3b_blocking	human	30min	unblocked	7.344	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	G6	21252	3KO	C3b_blocking	human	30min	EDTA	0.194	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	C7	21253	3KO	C3b_blocking	human	30min	unblocked	7.916	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	G7	21253	3KO	C3b_blocking	human	30min	EDTA	0.206	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	C8	21256	3KO	C3b_blocking	human	30min	unblocked	7.735	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	G8	21256	3KO	C3b_blocking	human	30min	EDTA	0.206	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	C9	21024	3KO.7TG	C3b_blocking	human	30min	unblocked	1.384	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	D9	21024	3KO.7TG	C3b_blocking	human	30min	CD46_block	1.846	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	E9	21024	3KO.7TG	C3b_blocking	human	30min	CD55_block	2.429	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	F9	21024	3KO.7TG	C3b_blocking	human	30min	both_block	4.512	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	G9	21024	3KO.7TG	C3b_blocking	human	30min	EDTA	0.24	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	C10	21039	3KO.7TG	C3b_blocking	human	30min	unblocked	1.127	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	D10	21039	3KO.7TG	C3b_blocking	human	30min	CD46_block	1.243	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	E10	21039	3KO.7TG	C3b_blocking	human	30min	CD55_block	1.62	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	F10	21039	3KO.7TG	C3b_blocking	human	30min	both_block	3.061	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	G10	21039	3KO.7TG	C3b_blocking	human	30min	EDTA	0.217	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	C11	21077	3KO.7TG	C3b_blocking	human	30min	unblocked	2.318	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	D11	21077	3KO.7TG	C3b_blocking	human	30min	CD46_block	3.374	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	E11	21077	3KO.7TG	C3b_blocking	human	30min	CD55_block	4.195	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	F11	21077	3KO.7TG	C3b_blocking	human	30min	both_block	11.324	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	G11	21077	3KO.7TG	C3b_blocking	human	30min	EDTA	0.263	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	C12	A9156	3KO.7TG.RI	C3b_blocking	human	30min	unblocked	1.29	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	D12	A9156	3KO.7TG.RI	C3b_blocking	human	30min	CD46_block	1.834	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	E12	A9156	3KO.7TG.RI	C3b_blocking	human	30min	CD55_block	2.135	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	F12	A9156	3KO.7TG.RI	C3b_blocking	human	30min	both_block	4.324	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	G12	A9156	3KO.7TG.RI	C3b_blocking	human	30min	EDTA	0.217	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	C13	A9161	3KO.7TG.RI	C3b_blocking	human	30min	unblocked	1.255	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	D13	A9161	3KO.7TG.RI	C3b_blocking	human	30min	CD46_block	2.405	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	E13	A9161	3KO.7TG.RI	C3b_blocking	human	30min	CD55_block	2.504	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	F13	A9161	3KO.7TG.RI	C3b_blocking	human	30min	both_block	5.346	MFI_x1000
+41586_2023_6594_MOESM5_ESM.xlsx	3d	G13	A9161	3KO.7TG.RI	C3b_blocking	human	30min	EDTA	0.194	MFI_x1000

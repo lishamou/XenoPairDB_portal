@@ -1,0 +1,2 @@
+scope	n_positive	publication_clusters	n_background	probability_superiority	ci_low	ci_high	method	p_value	limitation
+historical8	8	4	4114	0.849188745746232	0.695769237447045	0.982255712202236	positive_publication_cluster_and_background_protein_bootstrap	NA	only4_clusters_one_unresolved_source_not_independent_validation

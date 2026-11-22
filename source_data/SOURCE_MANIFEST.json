@@ -1,0 +1,126 @@
+{
+  "science_archive_doi": "10.5281/zenodo.24221713",
+  "concept_doi": "10.5281/zenodo.24221712",
+  "source_files": {
+    "gold.tsv": {
+      "archive_path": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/inputs/tier1_frozen.tsv",
+      "sha256": "e46da0b3d71fda9612a1a7eca972010a2e439d6f6961724459c712213ec43d9d",
+      "bytes": 12897
+    },
+    "atlas.tsv": {
+      "archive_path": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/inputs/tier2_atlas.tsv",
+      "sha256": "0a573b34cc2c4aab98f97d45f53f73fc61dc57613a790a0d1cc7bb58de49f37a",
+      "bytes": 209873
+    },
+    "surfaceome.tsv": {
+      "archive_path": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/inputs/surfaceome.tsv",
+      "sha256": "5a3adbc102a32171f4e1631bb2570cf63f33dca67865493e47e6f856d6705c23",
+      "bytes": 675353
+    },
+    "scorecard.tsv": {
+      "archive_path": "figure_data/supplementary_scenario_scorecards.tsv",
+      "sha256": "e816b1ce0c93681b6cb0f5c77b85d250cc319b79fc7d58991e393ac96f6ecdc6",
+      "bytes": 5296
+    },
+    "count_coverage.tsv": {
+      "archive_path": "figure_data/supplementary_count_coverage.tsv",
+      "sha256": "0e774707ef0a768d5be5f2e0630c1d4938239469289ff19204c3f76acdfbf050",
+      "bytes": 586
+    },
+    "genotypes.tsv": {
+      "archive_path": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/inputs/snapshot/XenoPairDB_Integrity_Pipeline/canonical_links/genotype_definitions.tsv",
+      "sha256": "fa00140a657fad103316af36ae9a55ffe4e3c55d73213c464cdaec75e500b59c",
+      "bytes": 4356
+    },
+    "organ.tsv": {
+      "archive_path": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/organ_annotation_scorecards.tsv",
+      "sha256": "4f10f36d50272a5f4b75cc19236710bfc6ec9afa24aeffd57488de8b51239546",
+      "bytes": 15594
+    },
+    "donor_masks.tsv": {
+      "archive_path": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/inputs/axis_donor_masks.tsv",
+      "sha256": "c464b94e782fbe0d5a1b93ea445f08d2fbe5ce8853f016be4d7d440d1234d6b6",
+      "bytes": 114028
+    },
+    "sequence.tsv": {
+      "archive_path": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/isi_nonlabel_feature_metrics.tsv",
+      "sha256": "bcf93193ffec8ea8cd3294a515df27a64b3a3fd340fe3a3585083f7596a7ca37",
+      "bytes": 764
+    },
+    "reference_metrics.tsv": {
+      "archive_path": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/antigen_benchmark_metrics.tsv",
+      "sha256": "c813e16751e2a18c2d896a823a1fe8c0702e56c9814a0dc8e350716b38c329e4",
+      "bytes": 11228
+    },
+    "reference_sensitivity.tsv": {
+      "archive_path": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/antigen_evidence_sensitivity.tsv",
+      "sha256": "5f56040dee19b1a6e506184ca4ba3f8369a34a24155139e2c099f0b007c5c582",
+      "bytes": 564
+    },
+    "reference_multiplicity.tsv": {
+      "archive_path": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/antigen_extended_multiplicity.tsv",
+      "sha256": "6b456da8290bf5c24ed76cb6c4ea7bc6b376850199f8f408f0207531da6aa503",
+      "bytes": 3166
+    },
+    "reference_clusters.tsv": {
+      "archive_path": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/antigen_source_cluster_ci.tsv",
+      "sha256": "4d57c336e320c9369445be3e6215d7a764377239efe387b29d143fbdb035d3ef",
+      "bytes": 320
+    },
+    "liu.tsv": {
+      "archive_path": "analysis/inputs/phase4_snapshot/results/liu_associations.tsv",
+      "sha256": "6a66b7ba8848da9047a6cdb5fb1513a59178ae17a8aacef4e88d2e7df6084715",
+      "bytes": 1568
+    },
+    "mapping.tsv": {
+      "archive_path": "analysis/results/mapping_sensitivity_statistics.tsv",
+      "sha256": "5aac4131f7756d16b472a09f2f0b617ec2940b4a7e63c943aecc15f02ae6a3e6",
+      "bytes": 3872
+    },
+    "anand.tsv": {
+      "archive_path": "analysis/inputs/phase4_snapshot/results/anand_contrasts.tsv",
+      "sha256": "d923b553e2d0e0a0bcace291b0b5f2c571bbcb6d9bb0d6e14968cd1283a0b864",
+      "bytes": 5074
+    },
+    "liu_cohort.tsv": {
+      "archive_path": "analysis/inputs/phase4_snapshot/results/liu_primary_cohort.tsv",
+      "sha256": "41434773d1c26e29252af50bb269397a900161433fd2d4e2a6962d590af365c1",
+      "bytes": 466
+    },
+    "mapping_cohort.tsv": {
+      "archive_path": "analysis/results/cohort_M4_observed_control.tsv",
+      "sha256": "967fd20e45094dbbdf2aaff3218404424b563a536d2bbddb331ae91126a6ef91",
+      "bytes": 474
+    },
+    "anand_points.tsv": {
+      "archive_path": "analysis/inputs/phase4_snapshot/results/anand_source_points.tsv",
+      "sha256": "bcda830c4bfb22e124d29f31462b06d27afdee2b05c5e73305fb70bfe892a906",
+      "bytes": 13777
+    },
+    "axis_registry.tsv": {
+      "archive_path": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/axis_identity_registry.tsv",
+      "sha256": "36663df7ebc371ebb803c2e31141fe9e388b8e28bc155f0c1ac6a46fa8d35a82",
+      "bytes": 11952
+    },
+    "LICENSE": {
+      "archive_path": "LICENSE",
+      "sha256": "36eccc8a8e619c77ad4597b4532f528defbfc5072d59c2c78640977f34b5b1c0",
+      "bytes": 1217
+    },
+    "DATA_LICENSE.md": {
+      "archive_path": "DATA_LICENSE.md",
+      "sha256": "a00a19939591e80ffb45c10b1d9e3eb349a53f55ae5e7aa7f0ab6cc30ae1a213",
+      "bytes": 1083
+    },
+    "THIRD_PARTY_NOTICES.md": {
+      "archive_path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "1a89f7eed1daec263a167a646e2aa4b7d469ce755a242f8fcc332da482d12c55",
+      "bytes": 3087
+    },
+    "SCIENCE_DATA_DICTIONARY.md": {
+      "archive_path": "DATA_DICTIONARY.md",
+      "sha256": "19115c1839fc0c51a5cc92cb90bed6e773f52921968d1fb463878debb1887aa8",
+      "bytes": 5257
+    }
+  }
+}

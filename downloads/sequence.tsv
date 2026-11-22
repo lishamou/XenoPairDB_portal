@@ -1,0 +1,3 @@
+scope	n	n_noncontrol	n_control	n_dependency_groups	auroc	auroc_ci_low	auroc_ci_high	average_precision	ap_ci_low	ap_ci_high	prevalence	bootstrap_valid	bootstrap_requested	p_value	method	interpretation
+sequence_available	61	51	10	38	0.625490196078431	0.369043650793651	0.808833204334365	0.894248304526018	0.800508174852232	0.968824667981682	0.836065573770492	2000	2000	NA	source_normalized_gene_source_dependency_bootstrap	fixed_catalogue_feature_association_NOT_functional_validation
+exclude_disputed	57	47	10	36	0.604255319148936	0.353133971291866	0.801503267973856	0.870741188985147	0.756422004646929	0.969400174305277	0.824561403508772	2000	2000	NA	source_normalized_gene_source_dependency_bootstrap	fixed_catalogue_feature_association_NOT_functional_validation
